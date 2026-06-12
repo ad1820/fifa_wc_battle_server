@@ -50,7 +50,7 @@ export const initializeAI = () => {
             model: 'nvidia/llama-3.1-nemotron-nano-vl-8b-v1',
             temperature: 0.80,
             topP: 0.01,
-            maxTokens: 500
+            maxTokens: 200
         });
         console.log('✅ LangChain Commentary Agent initialised (Nvidia Nemotron Nano 8b).');
     } catch (err) {
