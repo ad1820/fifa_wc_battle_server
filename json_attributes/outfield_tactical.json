@@ -1,0 +1,7695 @@
+[
+  {
+    "id": "4fb57ceb307de198e8a7e0302b89e473",
+    "name": "Matthew Garbett",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 26
+  },
+  {
+    "id": "2461cfa06753d6ee5ca4206738edcfa8",
+    "name": "Ayoube Amaimouni",
+    "nation": "Morocco",
+    "position": "FW",
+    "TAC": 29
+  },
+  {
+    "id": "afa05db1c62bddca8049f3c3cab3a7a0",
+    "name": "Tim Payne",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 29
+  },
+  {
+    "id": "c8169fef1b73ed44618f3d421e4db2b7",
+    "name": "Taha Ali",
+    "nation": "Sweden",
+    "position": "FW",
+    "TAC": 30
+  },
+  {
+    "id": "fceef340f233125790f40d436250145e",
+    "name": "Hélio Varela",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 30
+  },
+  {
+    "id": "1cc75525ffdb9d6c6c91d80d93310205",
+    "name": "Simon Adingra",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 30
+  },
+  {
+    "id": "7af012f4e63d87e4aa3fbe4ebd3d4540",
+    "name": "Brandley Kuwas",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 30
+  },
+  {
+    "id": "114988bd05d02ecd649db16cfa035ca6",
+    "name": "Mahmoud Al-Mardi",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 31
+  },
+  {
+    "id": "9e19292dc55d5fca75e31a248246582c",
+    "name": "Alexander Prass",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 31
+  },
+  {
+    "id": "93e54d14dff36595af25c3be4e19f48a",
+    "name": "Ruben Providence",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 31
+  },
+  {
+    "id": "820e2a25e5106c1b9e170bf48433d2cf",
+    "name": "Elias Achouri",
+    "nation": "Tunisia",
+    "position": "FW",
+    "TAC": 32
+  },
+  {
+    "id": "bea6cf1a62d4ba00441c1712a1ee39ec",
+    "name": "Marko Farji",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 32
+  },
+  {
+    "id": "8d50f4d587c0190588820398894855da",
+    "name": "Garry Rodrigues",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 32
+  },
+  {
+    "id": "dfa6e50a10dad7790e0627c1a9db1cef",
+    "name": "Giuliano Simeone",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 32
+  },
+  {
+    "id": "1912bd11c44cdbc727971f4fb5726ece",
+    "name": "Barış Alper Yılmaz",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 32
+  },
+  {
+    "id": "85b90bfeeef561159ad8081759d0831b",
+    "name": "Willy Semedo",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 32
+  },
+  {
+    "id": "5fd97199a25d6a807da64bdc1e9962e7",
+    "name": "Jacob Shaffelburg",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 32
+  },
+  {
+    "id": "ac822d82ac38a60c5a2f919da6cc9ed6",
+    "name": "Youssef Amyn",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 32
+  },
+  {
+    "id": "2f52f03edc171c8adb2fc483f7a503ef",
+    "name": "Yusuf Abdurisag",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 33
+  },
+  {
+    "id": "7045656633d479c0719e4d4d6ca8b8bd",
+    "name": "Rubén Vargas",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 33
+  },
+  {
+    "id": "e6749cf532c8aff4e9a9c369d56827b9",
+    "name": "Brenden Aaronson",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 33
+  },
+  {
+    "id": "ade2c2a1ea4737a105204508456ac7de",
+    "name": "Awer Mabil",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 33
+  },
+  {
+    "id": "b45fe593faca62091f1836b2ff592807",
+    "name": "Tshepang Moremi",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 33
+  },
+  {
+    "id": "82fa9fd92ae6164a9ca7462c04fbbde8",
+    "name": "Ken Sema",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 33
+  },
+  {
+    "id": "9c6678f19339bfa9335d00b324559d55",
+    "name": "Gonçalo Guedes",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 34
+  },
+  {
+    "id": "529e7ae9aa5fa01e30c1ee9f7dcab636",
+    "name": "Jearl Margaritha",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 34
+  },
+  {
+    "id": "cb439df4882c84d3f3773407b38e866c",
+    "name": "Anthony Elanga",
+    "nation": "Sweden",
+    "position": "FW",
+    "TAC": 34
+  },
+  {
+    "id": "f66ddfd46934f85335451e515ad8f5d7",
+    "name": "Ermin Mahmić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 34
+  },
+  {
+    "id": "a54eba08f37dec972ff53ae327f36cbe",
+    "name": "Morten Thorsby",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 34
+  },
+  {
+    "id": "adcaaa021b08dc5a1136dad7158ae6f4",
+    "name": "Ben Old",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 34
+  },
+  {
+    "id": "f585070c56694cf8371c56bf570787c9",
+    "name": "Tarek Alaa",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 34
+  },
+  {
+    "id": "8589169e6bd3120be424373760670ffa",
+    "name": "Liam Millar",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 34
+  },
+  {
+    "id": "8e2a8a475370ef9126d250b33fa3c58f",
+    "name": "Kendry Páez",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 35
+  },
+  {
+    "id": "9b6d1514f0e20c7a692a24582bdbac70",
+    "name": "Yan Valery",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 35
+  },
+  {
+    "id": "85504d438ca79af985f098f362ae480d",
+    "name": "Ar'jany Martha",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 35
+  },
+  {
+    "id": "ecf595076c4b64b56db9d6a084f32509",
+    "name": "Joshua Brenet",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 35
+  },
+  {
+    "id": "f78283ac89bb098001c1ac30d9c2d794",
+    "name": "Dženis Burnić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 35
+  },
+  {
+    "id": "d12251b8423ef079132a41581b6bb7f4",
+    "name": "Marcus Holmgren Pedersen",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 35
+  },
+  {
+    "id": "a5273bc553a51552a6f9c3a4d8ac2fb5",
+    "name": "Andrés Gómez",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 35
+  },
+  {
+    "id": "b40b24e0b4193304f545a334a6574b9f",
+    "name": "Ben Gannon-Doak",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 35
+  },
+  {
+    "id": "d2417d496088254a64d28e3393abddd1",
+    "name": "Tajon Buchanan",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 35
+  },
+  {
+    "id": "a2de21e8ce00ecbfc78e5baed014695d",
+    "name": "Dostonbek Khamdamov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 35
+  },
+  {
+    "id": "1222c8d59fdb611537e2a6f3bcd64a8a",
+    "name": "Ahmed Qasem",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "10e1c722e48aa515ceb9107b81d324d9",
+    "name": "Chemsdine Talbi",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "e77c7dcb9b533d868d3dd103f58071de",
+    "name": "Marco Pašalić",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "34706ebe5b7aa226d9204c6a22735444",
+    "name": "Hussein Ali",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 36
+  },
+  {
+    "id": "22c969ff12b69b68707c23d029b7ee45",
+    "name": "Anis Ben Slimane",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "a264fed2f2830615b169811376103f3b",
+    "name": "Ali Jasim",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "0edd95fa59e810a88ce255d9beefeaa0",
+    "name": "Bazoumana Touré",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "b9e5ed6666c0440eda22e20aef3a9f42",
+    "name": "Ritsu Dōan",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "eea0f06190428c5c00dcbe84597c9a30",
+    "name": "Connor Metcalfe",
+    "nation": "Australia",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "dc3b65ebb267e2f7dde6cd9336f86ea6",
+    "name": "Sebastian Tounekti",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "b4794d70429fb6f6f927b245859ba442",
+    "name": "Antonio Sanabria",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "85d5340a5474ce308e46ca0934d6008d",
+    "name": "Alireza Jahanbakhsh",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "a2ac8f249608846c4d80fe9096cd96a7",
+    "name": "Ayoub Al-Oui",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 36
+  },
+  {
+    "id": "3f4fc1f574c0a3c47e49a7837e2286ce",
+    "name": "Iñaki Williams",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "5068882823fb9581e78403e6e7f07c5e",
+    "name": "Ange-Yoan Bonny",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "1a3954cf6f1c2c1f0402677fd65eaa32",
+    "name": "Brian Cipenga",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "5dce07501062cb7d97d42bb1cb055192",
+    "name": "Justin Kluivert",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 36
+  },
+  {
+    "id": "9631655ffdee0f6e253735c9dd2b8d56",
+    "name": "Mateo Chávez",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 36
+  },
+  {
+    "id": "97620925cc69b18f3caceb52bafac3b8",
+    "name": "Christopher Bonsu Baah",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 36
+  },
+  {
+    "id": "d9716fccd505483e9e9524a2e09d5958",
+    "name": "Elye Wahi",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "828e41c00f57ac4ba77a8cffe72d930a",
+    "name": "Louicius Deedson",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "8b24b6f2ce9b92c1f6a130e0d55d55e9",
+    "name": "Martin Baturina",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 37
+  },
+  {
+    "id": "4a0dcb6fb863791a62430a25ea10bab9",
+    "name": "Sarpreet Singh",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 37
+  },
+  {
+    "id": "5014e84cb7756d480923c85e13aa9009",
+    "name": "Nico Williams",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "321b1749b0a12fd055e6a10a8805bbac",
+    "name": "Ime Okon",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 37
+  },
+  {
+    "id": "d8fe0403e2b471985c4aac2b1f775130",
+    "name": "Dodi Lukébakio",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "08d4f17df679c3eb29e6a8c806fd1362",
+    "name": "Azizbek Amonov",
+    "nation": "Uzbekistan",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "ac3e300dba2fac7e8a67c01aa8c93028",
+    "name": "Abdul Fatawu",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "452193decb39817c1da6a3a22410a62f",
+    "name": "Jesse Randall",
+    "nation": "New Zealand",
+    "position": "FW",
+    "TAC": 37
+  },
+  {
+    "id": "0529c2927a2fa9e4c3f0a26dfb2b8d90",
+    "name": "Sidny Lopes Cabral",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 37
+  },
+  {
+    "id": "9120e82925fddcce8ea28dd87e560005",
+    "name": "Oğuz Aydın",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "e539b03b981e6110d4261456f0fbf231",
+    "name": "Matías Viña",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 38
+  },
+  {
+    "id": "d65c910108f0cc44fc576dc6b20b516f",
+    "name": "Oscar Bobb",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 38
+  },
+  {
+    "id": "ec1fe5caa5331eacccfe4c1bbfbe8df5",
+    "name": "Phillipp Mwene",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 38
+  },
+  {
+    "id": "8342ab2d2dae7029ccf61a3b7109730e",
+    "name": "Mohamed Manai",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "e212471066aef5be8d78acd51b4fc793",
+    "name": "Nishan Velupillay",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "298488970f8ef3d2799c3adf5399d0f1",
+    "name": "David Jurásek",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 38
+  },
+  {
+    "id": "2bdd164454a1548c9629c1ddb3df96ce",
+    "name": "Sontje Hansen",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "fabc3a366b844bd4de2635522714c583",
+    "name": "Kenji Gorré",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "94909b265c82df3d1b9d899795655598",
+    "name": "Kevin Yakob",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 38
+  },
+  {
+    "id": "52b3b329f55d7f02f94255b512518378",
+    "name": "Azizjon Ganiev",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 38
+  },
+  {
+    "id": "b2f1f3a02a78e57453ebc9e0e8e50530",
+    "name": "Kento Shiogai",
+    "nation": "Japan",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "7f7e0f6fa459f272a286d7cb158d890b",
+    "name": "Rafik Belghali",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 38
+  },
+  {
+    "id": "4aa3a0eb21bb2ac05724da95676c3c23",
+    "name": "Deiver Machado",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 38
+  },
+  {
+    "id": "d9baff2f57a1b6aa40fb2b2e01bf50aa",
+    "name": "Tahith Chong",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 38
+  },
+  {
+    "id": "cfdbc1b9eae8c5949f810535bad762e3",
+    "name": "Facundo Pellistri",
+    "nation": "Uruguay",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "b880e2e25196f43677f2319c815ee8e0",
+    "name": "Yassin Fortuné",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 38
+  },
+  {
+    "id": "0be0712095d14798dc320394071b051f",
+    "name": "Morgan Rogers",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 38
+  },
+  {
+    "id": "95577fbe5930cbaa777e91865a41ee76",
+    "name": "Parfait Guiagon",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 39
+  },
+  {
+    "id": "fa511205a04f937dd3e24d415444a5dd",
+    "name": "Sphephelo Sithole",
+    "nation": "South Africa",
+    "position": "MF",
+    "TAC": 39
+  },
+  {
+    "id": "8b83542f80a258be52857cddf74c0b70",
+    "name": "Jamshid Iskanderov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 39
+  },
+  {
+    "id": "167f5d6caf51c2cad41732c3db5cb0f8",
+    "name": "Mo Abualnadi",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 39
+  },
+  {
+    "id": "506108bb958440531e0da00c2d33c105",
+    "name": "Lyle Foster",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 39
+  },
+  {
+    "id": "5008d372e71c308ced7b16e1d4cc7895",
+    "name": "Gustavo Caballero",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 39
+  },
+  {
+    "id": "371468626979205eed09e2feac6741a7",
+    "name": "Yoel Bárcenas",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 39
+  },
+  {
+    "id": "6e5e427c6ebad39a2d10112ea37425aa",
+    "name": "Ayman Yahya",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 39
+  },
+  {
+    "id": "60d40da346ac133e7b9326d7d2e06937",
+    "name": "Fredrik André Bjørkan",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 39
+  },
+  {
+    "id": "4de66168cb42a35446341215f881bbba",
+    "name": "Haissem Hassan",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 39
+  },
+  {
+    "id": "d380a71b261355caad83820c6920b80c",
+    "name": "Jørgen Strand Larsen",
+    "nation": "Norway",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "14872346e3080cd173eb5d76737cb2ad",
+    "name": "Fiston Mayele",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "309ba6bee1b038ddcd502360f23c364b",
+    "name": "Maximilian Arfsten",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "708026757faabfd64871ba5a5b4a92d4",
+    "name": "Eom Ji-sung",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "ddd567b3058cf7b296015bb792280996",
+    "name": "Gustavo Puerta",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "e93aa5d1a90d41055cd7b933d7aab7fa",
+    "name": "Jaminton Campaz",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "ede9bc9c7b7cbca622119bdef75ba4fe",
+    "name": "Adil Boulbina",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "157b1442e41716c614838f6513b34163",
+    "name": "Gabriel Gudmundsson",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "4090d58171a8b43613fb18b369f97c35",
+    "name": "Seko Fofana",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "756281eff00dfd24fac7be27af52ef75",
+    "name": "Steven Moreira",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "f27ce57bdab24bde6c0c2431faad5f9d",
+    "name": "Jamie Leweling",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "f9e2feeee86890f58a73249d7ba9195f",
+    "name": "Hannibal Mejbri",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "1e8c142cb4e2e852c3d8b2ab990dcf7b",
+    "name": "Hadj Mahmoud",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "aff323b4c00ac7a8a2f1a19ae716c437",
+    "name": "Miguel Almirón",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "9d79083e67698bec0ebdb4a600a13d0a",
+    "name": "Sergiño Dest",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "1c733374b17b636e967f1cb72ada80de",
+    "name": "Noor Al-Rawabdeh",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "e00827102ea9459f2b6b410c7826635d",
+    "name": "Agustín Canobbio",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "c1c243608e6b8dcef564a86fb75727e9",
+    "name": "Farès Chaïbi",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "fd24224beb7410dd6600d43ca96e0362",
+    "name": "Ibrahim Bayesh",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "037107cd875815b6b9068459ece0e2c6",
+    "name": "Wilguens Paugain",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "9ea19ec7498e90cdb2216dc69ccb65fd",
+    "name": "Dominique Simon",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "389fdabb39ffea1d7b6eb103fd448492",
+    "name": "Jean-Ricner Bellegarde",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "63610f0bc138dab6cb30f25ce42a4274",
+    "name": "Derrick Etienne Jr.",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "a95d78f0e8971a2ad4013d59f87ba729",
+    "name": "Jassem Gaber",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "0291bb91f24725eafa9cd69a90bb7d56",
+    "name": "Christian Fassnacht",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "7e4654d895be83970c3e5d6bdd580aff",
+    "name": "Oumar Diakité",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "4f9cd5f73e5f36bed589a6ab96b4941f",
+    "name": "Nilson Angulo",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "b5f69cf1e5cbf7d4093bf45cfe6e19bf",
+    "name": "César Blackman",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 40
+  },
+  {
+    "id": "fa5e82f55bb83e9de642023e5649ccbd",
+    "name": "Mehdi Ghayedi",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "68176524fb0f97171962e38dca98408a",
+    "name": "César Huerta",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 40
+  },
+  {
+    "id": "1ac13addaa47afcf2598ca4d944f87b8",
+    "name": "José Luis Rodríguez",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 40
+  },
+  {
+    "id": "0e3ee993bf1c9e069c684ffee5b96b60",
+    "name": "Adalberto Carrasquilla",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "9eaa42ce042becafb0983f113106df68",
+    "name": "Assane Diao",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "400ee93c493cbe147c982a6eb92d2ac3",
+    "name": "Callum McCowatt",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "fd9326e7ddb5065ced09d18b4fa73ac0",
+    "name": "Gilson Benchimol",
+    "nation": "Cape Verde",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "4f0680369a63651d00720c40b2384ff9",
+    "name": "Lucas Digne",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 41
+  },
+  {
+    "id": "e2508a2c2059938e7ce1f74f64abdee4",
+    "name": "Yang Hyun-jun",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "a1b0669f9c887d7b552e181878850f52",
+    "name": "Hwang Hee-chan",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "8367c210b1a52d89b6ea0de5955d675e",
+    "name": "Assim Madibo",
+    "nation": "Qatar",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "c44d1042c0d69c88516ff945265002ea",
+    "name": "Takefusa Kubo",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "24f72a550928f9c36c32325bedc70ba6",
+    "name": "Meschak Elia",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "3b7b3256d607c466f3a67f91e9456b87",
+    "name": "Keito Nakamura",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "4466415e748d6bca92aa85e040624042",
+    "name": "Samuel Moutoussamy",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "10d97d0a2c72b3afa45993af94a3811a",
+    "name": "Alessandro Schöpf",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "9b318c87a2b2f3a9e04eee7de782e4c3",
+    "name": "Ahmed Alaaeldin",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "865485712e8e278680659a139ceb02d7",
+    "name": "Abdulaziz Hatem",
+    "nation": "Qatar",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "39bc4162c855ab386880e6e89d328a15",
+    "name": "Gessime Yassine",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "6d17b82d71bb043be03ba9d3afb3ce7a",
+    "name": "Ali Abdi",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 41
+  },
+  {
+    "id": "256be6f09fe918c0b399301d1703072f",
+    "name": "Houssem Aouar",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "9f3ff07d58d7106124c4c8cbaab9650c",
+    "name": "Dailon Livramento",
+    "nation": "Cape Verde",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "22c47e8e744b7c469b24715767087aa5",
+    "name": "Kerim Alajbegović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "8eb166e202b7fdd78f83d9b37868cad0",
+    "name": "Abdullah Al-Khaibari",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "a81836e0d99e3d91cf95b64738f2f67d",
+    "name": "Cyle Larin",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "10aae12b00b93cc2b20dfa64f86256b3",
+    "name": "Nahuel Molina",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 41
+  },
+  {
+    "id": "9c7fcf32152943abbaf9ba9ee637b055",
+    "name": "Ali Ahmed",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "afea57d38368511b1b76306ce17867b0",
+    "name": "Deniz Gül",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "81271697c2fd02fb6f237170ddde2c16",
+    "name": "Matías Galarza",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "cb3e91a0af026605694e16b5b4cac4ae",
+    "name": "Nestory Irankunda",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "861b46e6df4436f5d943fea5ee586e05",
+    "name": "Ryan Mendes",
+    "nation": "Cape Verde",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "5def51437015cf34a8c13523b6c76511",
+    "name": "Edo Kayembe",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "cb51fdd9bda0197f3f93d1106869e83c",
+    "name": "Charles Pickel",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 41
+  },
+  {
+    "id": "12452ecb75da2f37d4bd6b8583e5038b",
+    "name": "Víctor Muñoz",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 41
+  },
+  {
+    "id": "78e6006332657900e16dfd9f9c77f514",
+    "name": "Trézéguet",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "e2df423654fe362fd86b67b2cece3627",
+    "name": "Farrukh Sayfiev",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 42
+  },
+  {
+    "id": "2753ec68af0b59277174a5b32fe16122",
+    "name": "Braian Ojeda",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "a51ec37cb4868a34be7b992bcf9f89b7",
+    "name": "Julio Enciso",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "86b47ec9b4e394bceb7d8998c658936d",
+    "name": "Nathanaël Mbuku",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "54b481b522caab0c2de527b5e8390bf9",
+    "name": "Gaël Kakuta",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "667665590d164b37b743c3905224214f",
+    "name": "Ngal'ayel Mukau",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "a193c68d79fefbee2f4491eea468e04e",
+    "name": "Jean Michaël Seri",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "e89546e12a780d58163ec82b50082c86",
+    "name": "Junya Itō",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "2e98fa2397c93fbcfdcedc23a64b0bf5",
+    "name": "Ben Waine",
+    "nation": "New Zealand",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "ec7680b32d8948e860df5fedbdee1a1d",
+    "name": "Jorge Carrascal",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "b7c30a1fc66b46a24f1afc69ede12065",
+    "name": "Themba Zwane",
+    "nation": "South Africa",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "edccc98e9cb910148f715b65e38468eb",
+    "name": "Pervis Estupiñán",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 42
+  },
+  {
+    "id": "e93515eb84ac1f5ae8b3ec1668a1fb1b",
+    "name": "Amar Memić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "d32fc1cee1021af3c58db5908325d1a2",
+    "name": "Dennis Eckert",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "83d9753eb33a8406ff26d3268bead08c",
+    "name": "Gervane Kastaneer",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "9ff8c30ec92f83f6abbe8ed87664ecba",
+    "name": "Donyell Malen",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "f626bf0f27158deef6c1141bad8304ce",
+    "name": "Lachlan Bayliss",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "8f6aa62bd3d1251779f74f70981ac600",
+    "name": "Mohamed Amoura",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "8363611f73382d39990be1c253e6342d",
+    "name": "Jamiro Monteiro",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "c51c035223f94d42a0fd27fa0ac58338",
+    "name": "Wilson Isidor",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 42
+  },
+  {
+    "id": "6c79ae80f1db8105831172e36c6a104c",
+    "name": "Alexandr Sojka",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "c8a5a16268dd9a642227b3d8ec2a6687",
+    "name": "Yuito Suzuki",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 42
+  },
+  {
+    "id": "75a34e0fd15a5ba89a8f1330fc239448",
+    "name": "Lucas Bergvall",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "86143bbf3f6b1e1245162bbcdc2ff882",
+    "name": "Dan Ndoye",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "9ce00257672135b855d175d0b43591e4",
+    "name": "Cristian Martínez",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "56036536ba3543b1432b157a0211adc7",
+    "name": "Thiago Almada",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "d45e5791ee05d86800d543eb9af33d95",
+    "name": "Josué Casimir",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "d809c03eb8bc775f9dee9e2349db9f33",
+    "name": "Callan Elliot",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "254b2aa8c237565abc52e35c5845cac8",
+    "name": "Lee Kang-in",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "4e2259b2f88f6c873034bd9b734ae7dc",
+    "name": "Kim Moon-hwan",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "bac95e642b1ca03b0f015b06bd79d74d",
+    "name": "Silvan Widmer",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "87d3f79b0b523427c7b041198c6343ce",
+    "name": "Maximiliano Araújo",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "1b1b3f2d1241afb7dbe6f899e9f509bc",
+    "name": "Mostafa Ziko",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "aeb4508627bc24582d24efeb7b18942f",
+    "name": "Laros Duarte",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "ba96d49ae13170278c0bffa92e230dc8",
+    "name": "Álex Baena",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "bea57ee7931ba3de2fb3360e112710ed",
+    "name": "Brandon Thomas-Asante",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "0857ff50fc64dec982873dcac00cb422",
+    "name": "Kwasi Sibo",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "09ff3c6b0faba6839e74fff8f868b3cf",
+    "name": "Yaimar Medina",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "bf8e9787c0499b0d29b0c3250bc1863e",
+    "name": "Ivan Šunjić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "3c47adf54b8368bae0deb9daed098dd6",
+    "name": "Telmo Arcanjo",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "a3f0632a4a8f1b68c1d1bafee88ee40c",
+    "name": "Carney Chukwuemeka",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "335cff4fbab621ca054947cc4d3e1000",
+    "name": "Akmal Mozgovoy",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "8e760b59679626854b218747b2e9047f",
+    "name": "Ajdin Hrustic",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "42bf9bbb5d40d0f326ccf8468b962cfc",
+    "name": "Azarias Londoño",
+    "nation": "Panama",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "808dda22c21fa7d7922933cba83df2b1",
+    "name": "Jason Geria",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "9d9a97261546a9ef241a487e71ce6d95",
+    "name": "Ryan Christie",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "d7d25d6201454465cbb5e30218fa1463",
+    "name": "Joe Scally",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 43
+  },
+  {
+    "id": "2ec44930d95ddd06a475d8302b64f4f2",
+    "name": "Yunus Akgün",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 43
+  },
+  {
+    "id": "c2c2426795aa4d9e8c1c3c65de8e3cf3",
+    "name": "Deroy Duarte",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "7020d9431f59c9b83b2debf3b25d4e2e",
+    "name": "Godfried Roemeratoe",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 43
+  },
+  {
+    "id": "594ce71657a5101b196c20d47fff97e8",
+    "name": "Tyrese Noslin",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "dbaaeeab21d1934d1700208878881007",
+    "name": "Khalid Al-Ghannam",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "293ec0a15dbbcae5b951b4833ad572ad",
+    "name": "Jorge Gutiérrez",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "5d7252fb31ddd2189d0c749bbbb83275",
+    "name": "Thelo Aasgaard",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "d877742624f6c04a34b0af55dd16e554",
+    "name": "Kerem Aktürkoğlu",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "c9ce97e0478b40f25f2b0ca1fa938cc0",
+    "name": "Andreas Schjelderup",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "7db8b110b6f5280dbc2848056c07ab65",
+    "name": "Haris Tabaković",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "c4037b1f56c0542baedf13e57abf76ef",
+    "name": "Jeremy Antonisse",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "3e9d36188f93890db0c845a35907a721",
+    "name": "Julian Ryerson",
+    "nation": "Norway",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "ffaa7a0ca7e13e18a3d3e512fc308339",
+    "name": "Prince Kwabena Adu",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "138686dac653f7ef1ed8c478748cc327",
+    "name": "Pedro Neto",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "11756e0cab88ccc84629d57a767d8ed8",
+    "name": "Jehad Thakri",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "dfa20aa0dc1570da2f550547461f0fd8",
+    "name": "Mahmoud Saber",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "0bf503f700a70046f241c6a122d0fd25",
+    "name": "Alex Freeman",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "425227d3bc581f8dcd352960fd7dc4f6",
+    "name": "Kieran Tierney",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "17e4022f7584020bf2b756093164b585",
+    "name": "Anis Hadj Moussa",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "1fbd8077df98b2fb541e484e82a61340",
+    "name": "Denis Višinský",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "09a2e98f430351a15388ec48fbbd6987",
+    "name": "Xaver Schlager",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "3d87d5f4a3109299f9286b451650d8a4",
+    "name": "Cody Gakpo",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "e93e6d05fc5c37a93176f59a61e64202",
+    "name": "Duke Lacroix",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "3204e6e03ad2f9b990c4b6aeec3f50a8",
+    "name": "Alexander Bernhardsson",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "0ddd3d2097d4437cd4a028b1a42b69f5",
+    "name": "Elias Saad",
+    "nation": "Tunisia",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "9b972d06b5a3128e173d03c713585229",
+    "name": "Nihad Mujakić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "861047c3750cc3a3da746ca94f943dbd",
+    "name": "Nélson Semedo",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "3f04dd1afb10559db1617c026d349c0e",
+    "name": "Iqraam Rayners",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "7584001377de2cfe1de0c277c697eb7f",
+    "name": "Vladimír Darida",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "3534e3bab1e120d524eb1b330f3c005f",
+    "name": "Farès Ghedjemis",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 44
+  },
+  {
+    "id": "04540163488d9a340066e55615308fa0",
+    "name": "Abdul Rahman Baba",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "35c5c310f15b58e3431d69acf5960855",
+    "name": "Ismael Díaz",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "1eedb0fdc1730e7b43c3dfdd18cc915f",
+    "name": "Anass Salah-Eddine",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "2b416b4736650d9f8701748333238b42",
+    "name": "Tino Livramento",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "994a5619dd11d7689f66e373b94680b9",
+    "name": "Eric Davis",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 44
+  },
+  {
+    "id": "cf5a11c0b003421b3879295838013c7a",
+    "name": "César Yanis",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 44
+  },
+  {
+    "id": "cfe085b3679bba428bff6e2f09723cb0",
+    "name": "Habib Diarra",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "02d8362245536fd78db365bf285eb391",
+    "name": "Nathan Saliba",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "89e09a50c760407c5798f6d514105f23",
+    "name": "Jacob Italiano",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "35e932925bd395b2d09b4c0b982d46cd",
+    "name": "Borja Iglesias",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "fef1b863bbc83ac8781e8fed75d71d4a",
+    "name": "Jérémy Doku",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "bc0193d67f137a982cd73f4a22fd8aae",
+    "name": "Kamaldeen Sulemana",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "ee24fd552855162d947e311a8ae84a96",
+    "name": "Michael Amir Murillo",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "6430c203ab2362b9a99fd73f480672b7",
+    "name": "Diego Moreira",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "e12a72dab8874b1fd6f74e718a4d67d6",
+    "name": "Ibrahim Adel",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "47d5350198f63bf2e70ce65252486fd2",
+    "name": "Patrick Wimmer",
+    "nation": "Austria",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "75b2e1b0741fc26a849b68875b72b908",
+    "name": "Brahim Díaz",
+    "nation": "Morocco",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "5ac758960385f5968d66a81f883fc63d",
+    "name": "Iliman Ndiaye",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "8e7e5b82f0429f7527f00afd0427d232",
+    "name": "Bae Jun-ho",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "16427681e4142a76cf7c8ae66c3f4e74",
+    "name": "Ahmed Al-Ganehi",
+    "nation": "Qatar",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "3d89008506be57e0c0869476b916b73a",
+    "name": "Mortadha Ben Ouanes",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "7f4bac0ecac65f8c20a528a039b3ba90",
+    "name": "Samed Baždar",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "c3be6aae491aee3758d6475a55dee65d",
+    "name": "Nick Woltemade",
+    "nation": "Germany",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "0b0d7b77f4a2dcce395b1859ded02464",
+    "name": "Alan Minda",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "372ac1e9d61e3756677acd3e5f327afd",
+    "name": "Jonathan Osorio",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "786c0922f67cbbce29a4146c43694b58",
+    "name": "Jordan Ayew",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "47d1b142b38bda5bc04ba65b2c582b78",
+    "name": "Ramón Sosa",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "7d36df1114945e161900f4fa5849437e",
+    "name": "Paul Wanner",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "71716ec0001cc7012fc06946b2f6b84d",
+    "name": "Yūto Nagatomo",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "906cac268db9f671358bafc9ade41a5b",
+    "name": "Yukinari Sugawara",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "fe14332e632925987b8e94fa536a1a40",
+    "name": "Youssef Belammari",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "dc97b0e1e870a41bdfdfd6740c20965d",
+    "name": "Gilberto Mora",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "591d56ffb5a9768e3ee45522de323df3",
+    "name": "Fabian Rieder",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "653acbaf7485e85bdff549b54ae8cdb9",
+    "name": "Sultan Al-Brake",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "f822787f2197fdc8dd29868c9ade219d",
+    "name": "Herman Johansson",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "c2323c9f40e0948c818cee40e1440259",
+    "name": "Tani Oluwaseyi",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "50fe5bbffe8544cf09f22e12c0da64a5",
+    "name": "Livano Comenencia",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "20b724472a4a8e3728fc352a708bc215",
+    "name": "Noa Lang",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 45
+  },
+  {
+    "id": "4152d9e65d54fa7471ad5adc0c2d8c64",
+    "name": "Brian Gutiérrez",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 45
+  },
+  {
+    "id": "5b3a3735753c159c935786e9a6f71804",
+    "name": "Ángelo Preciado",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "a350deb1ca1d00bee2757b5d66fad6a1",
+    "name": "Maxim De Cuyper",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 45
+  },
+  {
+    "id": "c8acb858a34cad07ed57bc2fc98591f4",
+    "name": "Khojiakbar Alijonov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 46
+  },
+  {
+    "id": "b5e282b9d26dcb86b6a1ea36444c34e1",
+    "name": "Mathieu Choinière",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "46fe8a92cf5e9c7eddc7826b447c7eab",
+    "name": "Cédric Bakambu",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "eb636eab3da32a52449254de4d1af379",
+    "name": "Maurício",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "5aae9523bce669a4cff7671c218c987c",
+    "name": "Isidro Pitta",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "0c2f7958f7b79054d2cd084aabb431f9",
+    "name": "Can Uzun",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "25c2b57c56bce59d6be540382edde2a5",
+    "name": "Tete Yengi",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "349255d3bb3d538e3da531e3ab407b5e",
+    "name": "Romano Schmid",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "969aa9d67dbd78a782e69affface0d2c",
+    "name": "Maximilian Beier",
+    "nation": "Germany",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "5f3147f307c29b098c07e275508e8085",
+    "name": "Besfort Zeneli",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "757e2ae24d144279bc98e823d2e72c43",
+    "name": "Bradley Cross",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 46
+  },
+  {
+    "id": "3985953d906ab86d3e19e3b7fe1bc0d3",
+    "name": "Son Heung-min",
+    "nation": "South Korea",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "e4be518b57151148bc04b23726d5c42c",
+    "name": "Danilo Santos",
+    "nation": "Brazil",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "ec305cca5a4c21d55530b7a555d59bec",
+    "name": "Kevin Pina",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "aa0c55fca358520086e33fa26ee3f7fb",
+    "name": "Leverton Pierre",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "392c0eea445141d3f02a4993c4d91c80",
+    "name": "Alex Rufer",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "c6322b187589db333a328316412f23a8",
+    "name": "Kosta Barbarouses",
+    "nation": "New Zealand",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "de3ce48a1abae3c7f4089625699e0f8e",
+    "name": "Carl Sainté",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "424c0c8d762892702a914c7a4f0fa9e6",
+    "name": "Raúl Jiménez",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "64ddc3bb6548e2b9acf57ae3248d280f",
+    "name": "Sultan Mandash",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "6e219c7e3b0f6d018743eb6e80d42ca2",
+    "name": "Jürgen Locadia",
+    "nation": "Curaçao",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "2cb7a5478b3abf03550ffbb522dd8395",
+    "name": "Christian Pulisic",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "0fc255e8343af9a79c48d4215d044767",
+    "name": "Ivan Bašić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "04ff150dd28a307411c21355b46773dc",
+    "name": "Timothy Weah",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "54740a2d613ee1fcf72d1f5535a10e92",
+    "name": "Kevin Rodríguez",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "aae338d7396e8fdb04d24be93c593c33",
+    "name": "Haji Wright",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "ecc4ec0cb7ac14bfa1909f440f183822",
+    "name": "Amir Hadžiahmetović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "1aa343cfee2157c65cd32d9d3d066ab6",
+    "name": "Lenny Joseph",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "a7e754b7c2c281aa9cd63150fef041ac",
+    "name": "Andy Robertson",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 46
+  },
+  {
+    "id": "b2539ec8399d1f32be6c24e851fb06dc",
+    "name": "Rodrigo Aguirre",
+    "nation": "Uruguay",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "4217c4b0d2f821518324e8724c300053",
+    "name": "Leroy Sané",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "7773e2e54ebd903caa24279c456d47b9",
+    "name": "Zizo",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "7fa41b37badba2698e9e0fe671b48f14",
+    "name": "Cristian Volpato",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 46
+  },
+  {
+    "id": "8971935628191772bd8ace2514821916",
+    "name": "Armin Gigović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 46
+  },
+  {
+    "id": "40c73a56ef6c59a5a5c206781e094e0f",
+    "name": "João Paulo",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "b303a0892f290b69c96171adeffbb899",
+    "name": "Karim Boudiaf",
+    "nation": "Qatar",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "73c32f1d5f2ba252db75a6a2f32161ab",
+    "name": "Matias Fernandez-Pardo",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "0968468a33bfd0e1112fd3db950d23ba",
+    "name": "Wout Weghorst",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "9d7d0bbcfd171f95ac4f0fe3b90a60bc",
+    "name": "Luiz Henrique",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "876e1bb431195c51574389c4cd4c2c25",
+    "name": "Gabriel Martinelli",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "cd0898e160c046811b033d80de25cc98",
+    "name": "Ahmed Fathy",
+    "nation": "Qatar",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "e78d7077132a78955016ece159a4dba4",
+    "name": "Nicolas Pépé",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "673898eda47200f3de5e0993907a8cc4",
+    "name": "Christopher Opéri",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "f7cfa5bdd60a29ca8598e2d430497ec0",
+    "name": "Mohammad Mohebi",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "d2844213e64eb3af87e13b215955afd1",
+    "name": "Ahmed Fatouh",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "8b230a6048d76adb90d5aa3834241138",
+    "name": "Benjamin Tahirović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "b9651619ef741d7d668fa745731f38f0",
+    "name": "Jordan Bos",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "2abf69414244f65e72cc9524c8fc2b91",
+    "name": "Mohamed Touré",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "a350f4d582552f0e136a031a17ebfbd0",
+    "name": "Riyad Mahrez",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "f8e151beb1aa41d1e15ad730e1adc32a",
+    "name": "Miloš Degenek",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "744ed431be598fb9924b3b8871f280d8",
+    "name": "John McGinn",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "8efa531fe92e8e06f446785fbd61161f",
+    "name": "Jack Hendry",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "deb748701d9e3fad4bb40637c1e38efa",
+    "name": "Andrej Kramarić",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "a3543126f289697694c9f70508df3b80",
+    "name": "Kenny McLean",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "f68bd985f50fd53401db9435cc3c0424",
+    "name": "Nicolás de la Cruz",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "81f6e199a552cbe8937eaa0e29c7146b",
+    "name": "Mohanad Ali",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "6c30c64f27e4e0e2f6c281ab8cced16f",
+    "name": "Ali Al-Hamadi",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "9561ad65ab7555bfc70ec5a209c00579",
+    "name": "Amer Jamous",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "2df09e4db655f3168b95eed70e1ed1b0",
+    "name": "Samir El Mourabet",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "dcd347c300f2e559c08a43ec2fe06e4d",
+    "name": "Kevin Felida",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "886504727671193fa59d8042389be4e7",
+    "name": "Caleb Yirenkyi",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "6c300a42ea415c3244ac264a37b0fd43",
+    "name": "Musab Al-Juwayr",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "2691e7f5eecddfcaf74fe1d9abb93acc",
+    "name": "İrfan Can Kahveci",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "2a2e29193de103a0574e8427a10ae964",
+    "name": "David Møller Wolfe",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "b6e686e140e34dc7784e71cd5a3b9fe6",
+    "name": "Mohammed Abu Al-Shamat",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "da7be9089b78e0a8d80572c06c5f7638",
+    "name": "Yéremy Pino",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "b847619eebab674a55d117a30b1ca874",
+    "name": "Diego Gómez",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "8dde96659ffefd212adf1f690ace131f",
+    "name": "Wagner Pina",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "aa82133a27c519e73432b37117582749",
+    "name": "Otabek Shukurov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "712ed826eab39d6d7861969176d0000c",
+    "name": "Noni Madueke",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "1ce65a46a0029cbe324bc15aabe8bed2",
+    "name": "Ismaël Koné",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "8b3d30f4103b8a3f66d3432486fb8c3a",
+    "name": "Sherel Floranus",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "9267053117bc5f7bda2607c845cd76e3",
+    "name": "Juninho Bacuna",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "027b8882a7696169fce49a64675dd57f",
+    "name": "Leandro Bacuna",
+    "nation": "Curaçao",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "90b58ac5d8da2b83251d14424f39be24",
+    "name": "Jan Kuchta",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "37315d19b8a57d5217489f121fad9fe4",
+    "name": "Saman Ghoddos",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "a84f8ab4a72636d50513de8f467db5d1",
+    "name": "Jorge Sánchez",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "8e3c70d08f8b1eb9fc147314552d04e8",
+    "name": "Hassan Kadesh",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "48b057ebb51524dead655e6f5f10be68",
+    "name": "Oswin Appollis",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 47
+  },
+  {
+    "id": "472c8ce7e2145e419db51fd1054f52c7",
+    "name": "Aubrey Modiba",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 47
+  },
+  {
+    "id": "60b12a1ca1eeeaa969c81022d12bdcac",
+    "name": "Orbelín Pineda",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 47
+  },
+  {
+    "id": "ac762e0b1ab0d90fe8915c9a323059b4",
+    "name": "Alexis Vega",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "2470fc8b8216d64e39652a401cf2ccaf",
+    "name": "Jorrel Hato",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "56c23efad10a81a654d64eb63c37bb60",
+    "name": "Crysencio Summerville",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "187d606fcdbaa2421f7ff42f7a9f6668",
+    "name": "Brian Brobbey",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "3221c59125eb58bf9657e0964d193e88",
+    "name": "Lukáš Červ",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "3ea712444a7b2e855cdf277351c54cd6",
+    "name": "Mohammad Ghorbani",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "19856d02f4852bfa9f11539975be3907",
+    "name": "Antonio Nusa",
+    "nation": "Norway",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "9dd40e951c348f3338380da0c34129a4",
+    "name": "Nawaf Boushal",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "c41677d0c665b67ed738699e3645e733",
+    "name": "Jordy Caicedo",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "41a57e0cff1483ee0c839fead09c0076",
+    "name": "Denil Castillo",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "376cb2d5beadddf8791b663501fa75db",
+    "name": "Jeremy Arévalo",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "5482442d26c2f3d83a2d0af8b678b406",
+    "name": "Hazem Mastouri",
+    "nation": "Tunisia",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "4f80b86fb54b57c8b264e86a92c24c99",
+    "name": "Alaa Al-Hejji",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "2201ceb8f36f0461f9d0bc174eec6004",
+    "name": "Anthony Valencia",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "83f97b5617669bdc4d88bcdc11960e81",
+    "name": "Alidu Seidu",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "e3473b73180033faf77752d795c20b38",
+    "name": "Salem Al-Dawsari",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "638b70cfb04275d7215e9a9e9f091cf0",
+    "name": "Paul Okon-Engstler",
+    "nation": "Australia",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "03de9556ee6761bbdd4d08af95bd343b",
+    "name": "Sherzod Nasrullaev",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "1871da2ee04f7884ba051dbaa83c1e0f",
+    "name": "Kelvin Pires",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "f704781a14fe51e8584673ec600f9d68",
+    "name": "Aaron Tshibola",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "414eecc5a500fca60801318a48b79852",
+    "name": "Frans Putros",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "61e5f0576373afa1b9505c6db592129f",
+    "name": "Nizar Al-Rashdan",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "cd47c3722c758cfc144c7fbe09ea6ee0",
+    "name": "Kim Jin-gyu",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "b7c8dc3466d00297499bc820e21506d1",
+    "name": "Edmilson Junior",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "44103c82b67db6310d410e5aaa04de11",
+    "name": "Mohamed Hany",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "29d2f10d2c68a20a3d7d5bed7c9b8309",
+    "name": "Mohamed Salah",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "12dfa9b3888d5a9a7b8f17b9394dfc71",
+    "name": "Cherif Ndiaye",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "b2dc2339df4fe7784c1d3747e66442eb",
+    "name": "George Hirst",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "d1a8c4d8bb08fb34dbc16912162d7019",
+    "name": "Abbosbek Fayzullaev",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "58497100e9d757f2f191d62ac201d7b6",
+    "name": "Jakhongir Urozov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "aeafc44b6ec60ff9d93b30963ed6b444",
+    "name": "Brian Rodríguez",
+    "nation": "Uruguay",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "cd6661eea233750bec0ad1620f0ffd2c",
+    "name": "Giorgian de Arrascaeta",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "70b469618f750e18db893e68ce760661",
+    "name": "Francis de Vries",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "578208065524b1690040192646830032",
+    "name": "Elijah Just",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "85b37ddc353a9f7e09131a1ef31e5884",
+    "name": "Luka Sučić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "da0ab4d05ce7b9b99e127f771e5392c6",
+    "name": "Warren Zaïre-Emery",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "2a5847f9e921e10ef70cc94b9a5bc85b",
+    "name": "Abde Ezzalzouli",
+    "nation": "Morocco",
+    "position": "FW",
+    "TAC": 48
+  },
+  {
+    "id": "03db3720433c434691dae7ac011e4192",
+    "name": "Jayden Adams",
+    "nation": "South Africa",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "905919534f10bc83a9131557fb727ea9",
+    "name": "Juan Manuel Sanabria",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "a54fe4113d7d245023960b56c742c69e",
+    "name": "Aníbal Godoy",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "a8822a6f5ac7ee12ae55835dfc7a12eb",
+    "name": "Juan Portilla",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "e822bf09352b35d2b9609d12a1903fad",
+    "name": "Johan Mojica",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 48
+  },
+  {
+    "id": "797c70e3b50db29765a5755d6837f012",
+    "name": "Augustine Boakye",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "b95bff6dc7a96a30262e2506104693a5",
+    "name": "Michel Aebischer",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "110d021f79d3e26d060640171ace4ca7",
+    "name": "Obed Vargas",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 48
+  },
+  {
+    "id": "aafc864d6169f417a2f229e9667f046d",
+    "name": "Gédéon Kalulu",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "04979d33253abe19e9c769e17b3bb07a",
+    "name": "Djed Spence",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "95aae87c626f5c4a9b92c46853e12ae4",
+    "name": "Alexander Sørloth",
+    "nation": "Norway",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "d27aff2d45e319b1891a5cd6153dd37e",
+    "name": "Amar Dedić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "98ec038399df32001d6426bb80a3af4c",
+    "name": "Nabil Emad",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "a4da07e00b3737701a9be5b7abb18195",
+    "name": "Konrad Laimer",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "f49c2645adf13c9572c016b6fb2e5897",
+    "name": "Santiago Arias",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "df2e1313beddde6f164da879ecb383e0",
+    "name": "Aziz Behich",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "5b8230c467769015e477d64a2d4237c5",
+    "name": "Ali Majrashi",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "2affac6b759c83d1fc2cf07e06b8bbf5",
+    "name": "Kevin Castaño",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "dc076d7ed7a44649f3149b9202c97017",
+    "name": "Ziyad Al-Johani",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "7088a4ab111803fcfea11e2eb580502c",
+    "name": "Gonzalo Plata",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "6c93297d93580ba9f60f066adcb6aa17",
+    "name": "Ismaël Gharbi",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "141c87c9bce8e464479d4306e0cd4004",
+    "name": "Moteb Al-Harbi",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "727d453c3cf4b28a3f465114a90b6829",
+    "name": "Samú Costa",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "339088db803d5dd400b8d4cc5cc85dcf",
+    "name": "Jens Petter Hauge",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "911cbc9a65d0069e6d16803158971cf7",
+    "name": "Jesús Gallardo",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "57b3ff9535b4b6b00c9e4973aa963215",
+    "name": "Esmir Bajraktarević",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "69e754f3e158138daccbe8e39470b3fb",
+    "name": "Firas Al-Buraikan",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "88802f5ccd6347cfcd01f59eb7b9ed36",
+    "name": "Sadio Mané",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "937211ff317bd5bba33308c02499c41d",
+    "name": "Ardon Jashari",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "1cf43f7fc7bb28b52aa91f135efc4b03",
+    "name": "Alex Sandro",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "d8a62352604baa8c84d3afd43b757973",
+    "name": "Malo Gusto",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "053f283cb9318c8f8650d76191f06ade",
+    "name": "Lucas Paquetá",
+    "nation": "Brazil",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "d52d22931788c34045830c522e900a33",
+    "name": "Chris Wood",
+    "nation": "New Zealand",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "ae94fa42a9ec609d9f51bb322f477763",
+    "name": "Azzedine Ounahi",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "194fc01cd0285f3b5d02003cfa315cd6",
+    "name": "Duckens Nazon",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "b12b124fe419477fbf954377900b1dee",
+    "name": "Ismael Saibari",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "9814ad42e2fafd2b0fb0512a5c9131fc",
+    "name": "Zidane Iqbal",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "3684779b5801c60d187964dfd469c644",
+    "name": "Lee Tae-seok",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "6b81cc85a99e2d051aea5eec40be7983",
+    "name": "Kamogelo Sebelebele",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "94ac935f1cb3b2d97eb9a5068082e1de",
+    "name": "Steve Kapuadi",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "917c80b4bf2f825aaa9312434932c791",
+    "name": "Aiden O'Neill",
+    "nation": "Australia",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "535ecc2d5b3a6702e0a5d0c9b72fdd04",
+    "name": "Anthony Ralston",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "b61a1ca663d6cafe9260933e68d8b3a6",
+    "name": "Ao Tanaka",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "a590e46f5de3c8bf6cee2380bed5444a",
+    "name": "Thomas Partey",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "cdd2b2cdaf2cf43fb65f52e2b070fe36",
+    "name": "Christ Inao Oulaï",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "4720bf9cace5abf5301d60337ba3f2f9",
+    "name": "Eren Elmalı",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "94c014f6d4b95d4c71f96d852711daed",
+    "name": "Saleh Al-Shehri",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "c619c1b6ba686fa154704f80fbc00f0c",
+    "name": "Keisuke Gotō",
+    "nation": "Japan",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "dfb42bac4ea265fa1cf3955fd2c28706",
+    "name": "Ismail Jakobs",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "124925bae39c5df1151448ee58d46377",
+    "name": "Marko Arnautović",
+    "nation": "Austria",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "0ed1a6efbf653701cbb1aa48702abd99",
+    "name": "Edson Álvarez",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 49
+  },
+  {
+    "id": "bfd5b4c22104ac930dbf575b24026903",
+    "name": "Nicolás González",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 49
+  },
+  {
+    "id": "99269578954ca868fc75dd1bff658b5f",
+    "name": "Tomás Rodríguez",
+    "nation": "Panama",
+    "position": "FW",
+    "TAC": 49
+  },
+  {
+    "id": "5f742ab2650adb86adeff815ce29592e",
+    "name": "Armando González",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "bed9977a9d13be958fd116b6f6e648ad",
+    "name": "Guus Til",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "96b59c0a6bbabbe4b071bef208c716b8",
+    "name": "Mohamed Amine Ben Hamida",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "22c033f9c03bde3141ad7f22265ff2bc",
+    "name": "Quinten Timber",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "f55787f6745b36a1c5ff84696114e98e",
+    "name": "Stephen Eustáquio",
+    "nation": "Canada",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "25b2549071c0c5773c38802462697667",
+    "name": "Álvaro Fidalgo",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "ea84bcfa8b2328c29ff90a90da807791",
+    "name": "Lee Dong-gyeong",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "4ad19fd3b0bae767d099bcae99906384",
+    "name": "Dennis Hadžikadunić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "b78ccfffef30e1529d567de3d9c742ca",
+    "name": "Diogo Dalot",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "c065c112e81dc0a4ace298b1e5d32280",
+    "name": "Antoine Semenyo",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "bcc149d05811d7b0556cf3531d46c36c",
+    "name": "Álex Grimaldo",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "d99042bb1698c11440cf84b2114b0819",
+    "name": "Damián Bobadilla",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "e90c361f8ed8413d6c85b3211054d3ee",
+    "name": "Richie Laryea",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "dcee67bc5f7d78df1221a301b806d606",
+    "name": "Antonee Robinson",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "6f27c45ce2f6854e58822c5f0cd1d890",
+    "name": "Pedro Miguel",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "de97c497d5763e0af1d0c2f25d0a5a6a",
+    "name": "Paik Seung-ho",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "38b9e376049ba55b32b6cb328efaaa70",
+    "name": "Nadhir Benbouali",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "3724bf16a6b48c737739ddf71d91f053",
+    "name": "Lyndon Dykes",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "c9dfebf382ea0416b52c4ba3129a3dc7",
+    "name": "Ross Stewart",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "87c408f18618d8df472142e09fa8616c",
+    "name": "Junnosuke Suzuki",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "693937c18ef7670dcc9c1a425f6e8628",
+    "name": "Ghislain Konan",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "ab790ccf5f35e8b81a3942a11b9634a7",
+    "name": "Axel Tuanzebe",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "d63c54be1a741369e844af5f204a1ecf",
+    "name": "Seol Young-woo",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "fdbe2bb04eee27a9a752cb103ec653c1",
+    "name": "Luis Díaz",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "745db0759ec1d335adbb96f1af946fb2",
+    "name": "Ryan Thomas",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "ff8b61730fad742752c3e3e900365949",
+    "name": "Ricardo Rodriguez",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "86ec737ca78a128a3a281ff3afbe014c",
+    "name": "Jean-Kévin Duverne",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "b30c536c5709e1a1e2a8c8634cfc887e",
+    "name": "Rodrigo Zalazar",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "08aba768f53538e11032cddec466bbf9",
+    "name": "Joe Bell",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "e264579d29d15f710d611b29d8b8e1a2",
+    "name": "Marko Stamenić",
+    "nation": "New Zealand",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "7b86a0e1cc332b0b6b69d75796095906",
+    "name": "Evidence Makgopa",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "b9b5f005db8ca5ad4dd926faeb4c9371",
+    "name": "Jhon Arias",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "c2fdf9de68c95715a52efb826e87d028",
+    "name": "Khuliso Mudau",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "8fa288d865827b15353dae4bf6e016f1",
+    "name": "Cecilio Waterman",
+    "nation": "Panama",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "3380728b3196399a5ef51c9f29ae502d",
+    "name": "Rafael Leão",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "d0c16ff9b9007e0665ab3075768cf9e9",
+    "name": "Mohamed Kanno",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "ff3fcd7e9033865c0ebb01d387bd4a97",
+    "name": "Jamal Musiala",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "96688af513b615d5626ebb58e010b35e",
+    "name": "Rayan Elloumi",
+    "nation": "Tunisia",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "c19a7d9b323187a636fc869657ccdfd0",
+    "name": "Théo Hernandez",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "6e28c1f134e500ba63d330bdffc43e10",
+    "name": "Djibril Sow",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "9522efcaf2f08cb72d4349feb632018a",
+    "name": "Noah Okafor",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "1573845ddeefeaa9e13d3c8b37aa0695",
+    "name": "Anthony Gordon",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "58cad2629f7091039afc8c817b336350",
+    "name": "Guillermo Martínez",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 50
+  },
+  {
+    "id": "7f29f74b8dd446b091d0f64f65d9a7ed",
+    "name": "Mario Pašalić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 50
+  },
+  {
+    "id": "65a74b87fc64cc119483706b3f4e0e37",
+    "name": "Jaroslav Zelený",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 50
+  },
+  {
+    "id": "df59f0153bfb0f692cf540177db3a10c",
+    "name": "José Córdoba",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "59aa706883f416679c07737d34b862de",
+    "name": "David Douděra",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "15b4f3ebc1d33dcf62f0f08410920dd8",
+    "name": "Jovane Cabral",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "3fa5aafa83c83e4d436100ff14bb7a32",
+    "name": "Roberto Lopes",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "f9df33e6e13afc00b9c14d0c71f523c4",
+    "name": "Diney",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "d1ed5f75f76f600cd30c3fea9e179644",
+    "name": "Victor Lindelöf",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "8fbd8f0844aefed230ca44ba9b239d4b",
+    "name": "Kōki Ogawa",
+    "nation": "Japan",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "5639e2e65162d295e848be79d3685f56",
+    "name": "David Raum",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "23d0e9b1a9209385540de3421f8a4ea9",
+    "name": "Nasser Al-Dawsari",
+    "nation": "Saudi Arabia",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "2cfccf833cee1683b54f72740a2bb3f9",
+    "name": "Elliot Stroud",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "733ff682157b733e66f638ed170ceb53",
+    "name": "Mattias Svanberg",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "d9899d6923155714e39b48f5b3a891e7",
+    "name": "Jesper Karlström",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "fe19872cd1f7d714338a542fed617aec",
+    "name": "Dylan Batubinsika",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "8dd12f5b956eabef7c4ead76ca391c41",
+    "name": "Folarin Balogun",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "a169af787e6b5880bb773037239cbfcd",
+    "name": "Enner Valencia",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "90d12ff6ee5d2ed5c0ac83d839f64fa3",
+    "name": "Kai Havertz",
+    "nation": "Germany",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "4612d4df18ddab67232f77d60046390d",
+    "name": "Saud Abdulhamid",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "0eebef970570c5ac00c65848bacdc641",
+    "name": "Giovanni Reyna",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "f6fb656086e434686c1da8d7eb31cf70",
+    "name": "Kaan Ayhan",
+    "nation": "Turkey",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "55cb6e308d3c510160fb44afbf89313f",
+    "name": "Abdullah Al-Hamdan",
+    "nation": "Saudi Arabia",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "06e188dc5b634203beefbe8a91195321",
+    "name": "Kenan Yıldız",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "d919979dd00d248c95081f48dd5c6404",
+    "name": "Kaku",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "beaf27477df58039505b66aa61e32473",
+    "name": "Charles De Ketelaere",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "a54a754dc9c273edad26e3b6d58e728d",
+    "name": "Findlay Curtis",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "34d8d0f75d3596c651fefd106b8da5ad",
+    "name": "Juriën Gaari",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "bfb236f7579b8fd1b33e7a9fa1d17e82",
+    "name": "Bamba Dieng",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "f202d94b668e0e738c849289d55d0b8e",
+    "name": "Nikola Vlašić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "f92e59d8f6795cd0822d88a281f96c31",
+    "name": "Petar Sučić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "1d3bf62773bdb53c0cdd683eed6af0dc",
+    "name": "Rayan Cherki",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "4db2eff414f1314b812757b1adb08ea6",
+    "name": "Frantzdy Pierrot",
+    "nation": "Haiti",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "ab66a1c49eb7a9815555ab59f6b009fa",
+    "name": "Achraf Hakimi",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "6bffd0e3950bb825cb7ad3c8be0695d7",
+    "name": "Hicham Boudaoui",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "8498eaa8096344080e143325e8e3b4f4",
+    "name": "Lee Jae-sung",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "5e19decf5aaca15f7657af8c95c17429",
+    "name": "Thalente Mbatha",
+    "nation": "South Africa",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "64cbfa8df6cbc3a8709fe4b293c06156",
+    "name": "Miro Muheim",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "d0a6c5b0aa2e1942d7459006041d00f0",
+    "name": "Marcus Rashford",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "2ab49ac4c3897e3f626fd4beba6bcfb8",
+    "name": "Saleh Hardani",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "bd80d3060eedd9ae5e29fc3413502318",
+    "name": "Promise David",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "7eea3b9331e1c3f9a04a4c49113e1c73",
+    "name": "Amir Al-Ammari",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "5135f5d66916d27b2af7e338e8d3a781",
+    "name": "Akram Afif",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "33da32024282019902490d248e97f90f",
+    "name": "Neymar",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 51
+  },
+  {
+    "id": "5ef71046a0afba90143ae25d97883a0a",
+    "name": "Michal Sadílek",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 51
+  },
+  {
+    "id": "9b9bdff12f917fb3156534bcec65730b",
+    "name": "Abdoulaye Seck",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 51
+  },
+  {
+    "id": "d41ebec0209bce3717fb2f0c96dcb340",
+    "name": "Evann Guessand",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "5e0370cacbc20b401991c3bebe97b4d0",
+    "name": "Ferdi Kadıoğlu",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "94ab53baab6f41de440ede857d4bb94c",
+    "name": "John Yeboah",
+    "nation": "Ecuador",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "dd490150ef16e819dacc9830afb1c67b",
+    "name": "Jefferson Lerma",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "9cd3bf47269db395d878a6ac4c23972f",
+    "name": "Denzel Dumfries",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "24b6e89b88e0ea67624916de9446443a",
+    "name": "Avazbek Ulmasaliev",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "50bba8b4add4473f793a5447eb98ff55",
+    "name": "Yazan Al-Arab",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "6f0bb962bb24423c7fa1e38c9e073bfb",
+    "name": "Bilal El Khannouss",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "4e8e5ba870ff68d9a98e6ef7e1536261",
+    "name": "Umar Eshmurodov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "6cb1ac58520b975ba8df51c85e880669",
+    "name": "Francisco Conceição",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "2c4fd68ac737812f56163bae7471cb09",
+    "name": "Mohamed Amine Tougai",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "9eda3ca24281061491a3ca69da71c263",
+    "name": "Dani Olmo",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "89b346e23bf757738999dce85805cecc",
+    "name": "Deniz Undav",
+    "nation": "Germany",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "d39105b57946c5da6b38732b41f2fb71",
+    "name": "Amad Diallo",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "083d0483df11c3da506481fccc2296d7",
+    "name": "Yasin Ayari",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "21826670522ea4f86e76d47d9e06f98d",
+    "name": "Arthur Masuaku",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "9c73d310183950320cc794cead9e637a",
+    "name": "Nathan Aké",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "b88a4f6331de56d4858b420a9274d748",
+    "name": "Hjalmar Ekdal",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "8052a10b8bfbfc3eb5259846984069bb",
+    "name": "Rodrigo De Paul",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "bdd8d921d107eaa0ebb27abc5a8205f0",
+    "name": "Valentín Barco",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "4bee68dc20ae86a275b91b66909ec426",
+    "name": "Derrick Luckassen",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "6e3d7eeba0cdaba1e32046b924c01709",
+    "name": "Giovani Lo Celso",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "c0b68f77e33190aa29906a55b7456248",
+    "name": "Pedro Vite",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "0f68c2a15902bc932d99ae3c1bee01fd",
+    "name": "Ollie Watkins",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "15b983a0d4e43c12d94c3b51fe1b4420",
+    "name": "Kobbie Mainoo",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "a60fea162e42a30f514ad01c29350488",
+    "name": "Breel Embolo",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "50ef6d1f848664d3cb7b1c8994c6bfbb",
+    "name": "Cedric Itten",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "67df140d36d485eff03de98021a96096",
+    "name": "Rayan",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "bb78135e19404544d63ce9ccd15ec79a",
+    "name": "Pavel Šulc",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "ea777313379468ed2cdfab8c9cb0c6ad",
+    "name": "Jens Castrop",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "51d069578430bac978856bd0a098c08a",
+    "name": "Hwang In-beom",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "9f57ad24803c60a3b3189177cc29d514",
+    "name": "Shahriyar Moghanlou",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "12d7c3c79fdd8bcbede8b31d388729bb",
+    "name": "Relebohile Mofokeng",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "009d004c9e699b945afd1ff8d5feb5d5",
+    "name": "Eberechi Eze",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "3ab1db971bc1e229a88b0b5ec3e455b9",
+    "name": "Marcus Thuram",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 52
+  },
+  {
+    "id": "3daaad1f6ec74bd5349e8a0fb0e4e2d3",
+    "name": "Michael Boxall",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "bc9ffa1d9f1e615f0d4cbd5bd55a87d3",
+    "name": "Jaouen Hadjam",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 52
+  },
+  {
+    "id": "a1fcc2e09a5bfd9beecc02779d2bf07a",
+    "name": "Axel Witsel",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 52
+  },
+  {
+    "id": "80f9ecf66d6cb0b4c9437e2a26fe7902",
+    "name": "Andrés Cubas",
+    "nation": "Paraguay",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "1f82018c715fb989c9ceaf5e9d968943",
+    "name": "Lucas Herrington",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "dd90c077f226ea3cb8a530d45b6de42b",
+    "name": "Odiljon Hamrobekov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "9557c3d5a4d886e134f86e3ad4bf0683",
+    "name": "Alexandro Maidana",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "9b978de4a78412dbe24b8840c6b52f00",
+    "name": "Leandro Trossard",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "f85a02a6e3fabd5d2e430777e6223c90",
+    "name": "Bernardo Silva",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "e5452581eb70900fae3654cb9759243e",
+    "name": "Cristian Roldan",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "e4e5fdb1822f392a5161c4266660f008",
+    "name": "Yannick Semedo",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "78b2a6e7d841ead537dab6c20fbf7811",
+    "name": "Samir Chergui",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "5b304477a530819d74d994d790646ac2",
+    "name": "José Fajardo",
+    "nation": "Panama",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "f2bacca720c93e387650f91ca66710ef",
+    "name": "Carlos Harvey",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "ff8bac57afd9e78b144e627ae6f11330",
+    "name": "Daichi Kamada",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "041ecd6cee39773f23b664946d04273d",
+    "name": "Franck Kessié",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "4840e810a98b021d972c2593613c41b3",
+    "name": "Omar Rekik",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "e5d7c4a70659a997bb4f675a4b133fec",
+    "name": "Nuno da Costa",
+    "nation": "Cape Verde",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "99aca974340178d86ec351c7fd224105",
+    "name": "Emam Ashour",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "157f8a2676fe10225f13f68aa8404f19",
+    "name": "Omar Marmoush",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "abb02fcd366ba76654ace7bf9da1180e",
+    "name": "Ibrahim Mbaye",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "e03c065bd18ef064e28c9569e55d6484",
+    "name": "Issa Diop",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "39e34d17d936e2cbe578affd4de5ed85",
+    "name": "Danley Jean Jacques",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "f0debec7635d91fa185228c0db9961ba",
+    "name": "Kristijan Jakić",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "08b4f36c659e85aea93c3ce1f2657107",
+    "name": "Enzo Fernández",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "25151404ec686810282ec922b97afaed",
+    "name": "Toni Fruk",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "64ac75d6d2c2d9eebe3cb38bf509763e",
+    "name": "Amine Gouiri",
+    "nation": "Algeria",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "28941f170ce1dfcc62d121470b410a18",
+    "name": "Saeid Ezatolahi",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "c2711d20f162e4ece7959f890b6c42e4",
+    "name": "Joel Waterman",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "720f21551660557c9682948ef580287b",
+    "name": "Lee Gi-hyuk",
+    "nation": "South Korea",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "fe1e1e53360a1ae53c25b97b77c1af9b",
+    "name": "Teboho Mokoena",
+    "nation": "South Africa",
+    "position": "MF",
+    "TAC": 53
+  },
+  {
+    "id": "5649be5b02355f8853b00f3bfa6ff1d8",
+    "name": "Santiago Giménez",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "cc23b7194d29daa2d2739807a762f08c",
+    "name": "Sondre Langås",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 53
+  },
+  {
+    "id": "04b4d0335453d23aee012b1e9a603059",
+    "name": "Roberto Alvarado",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 53
+  },
+  {
+    "id": "d5773b06bd737cf1e2f0d6f89f472a62",
+    "name": "Tomáš Chorý",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "57e5ba98779c3229e4042b65df012135",
+    "name": "Gideon Mensah",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "c0682a0205bc6dbb2c56375c2a930f93",
+    "name": "Michael Gregoritsch",
+    "nation": "Austria",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "c718e63ce74f611ec9169510741372ea",
+    "name": "Tyler Bindon",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "a8bd63d3400e398407d5f86406dca958",
+    "name": "Joaquin Seys",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "4fa34dd6f56847fa2b96cb06b0acae18",
+    "name": "Yasser Ibrahim",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "25ebd69f7556386e91fe2ffe4be92c0b",
+    "name": "Nathaniel Brown",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "18191c54af4592829326d205ad7b2404",
+    "name": "Wataru Endo",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "88e8da4e4219e2ed00da466631e9cbaa",
+    "name": "Richard Ríos",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "016f038e63c349a450f2b43b5b5c5bf8",
+    "name": "Hiroki Itō",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "22ec3c501a001b73abd31f5260e8c393",
+    "name": "Ayase Ueda",
+    "nation": "Japan",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "f484f4b0a6072d81b694f79dd5a37b6c",
+    "name": "Cucho Hernández",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "02b89e84fa3ece1502334744d4b503d7",
+    "name": "Memphis Depay",
+    "nation": "Netherlands",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "d24dc6b7571e6fc041a91a997b4cdc99",
+    "name": "Gonzalo Montiel",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "cacdc6e5aae1fdf8c8a499ee56add6e7",
+    "name": "James Rodríguez",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "d0e568e9335d5647040d0e157afbf827",
+    "name": "Tommy Smith",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "c340ed3b6734202a7a096dcd53fe9d8c",
+    "name": "Álex Arce",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "416e18d7dbe2ff304316f1d1eb87eb50",
+    "name": "Mert Müldür",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "601dcf1fc7c59bb1b05253ff6ab74e83",
+    "name": "Antoine Mendy",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "0a0f45eced0b0765639c3a8fba57bbc4",
+    "name": "Gabriel Ávalos",
+    "nation": "Paraguay",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "7016e6edc4c12b7ad39f62d721296067",
+    "name": "Kai Trewin",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "c17dc8b576784484b363fff6df9dd0ed",
+    "name": "El Hadji Malick Diouf",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "05702bb4447b53f7ef2f5e0d1f89a1ad",
+    "name": "Igor Sergeev",
+    "nation": "Uzbekistan",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "a0f9c1c70042e4e55a61afa947fb51ed",
+    "name": "Eldor Shomurodov",
+    "nation": "Uzbekistan",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "869e0fab6ae619a17316656aa59e09db",
+    "name": "Miles Robinson",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "1baec707e5d56aab2b3dae86dbb56bd8",
+    "name": "Shurandy Sambo",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "d6f0e338a7e4a7380abf8de6be37cd5d",
+    "name": "Orkun Kökçü",
+    "nation": "Turkey",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "3e0c872db1b0181a0ae21b04ee671960",
+    "name": "Merih Demiral",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "35376b665866eea8b26b610b2e84ee0d",
+    "name": "João Cancelo",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "867716ecccf8237bdee8f26e1e072265",
+    "name": "Pascal Groß",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "d8526b8d2c7979205d1336f72606e186",
+    "name": "Jean-Philippe Mateta",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "9dc50eb1e148703e19f6bae5352daf9c",
+    "name": "Rebin Sulaka",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "b2128d608f07fd1d7f49b4a693fdb30c",
+    "name": "Nicolas Jackson",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "9fa32d8a1f5bc9a3bf3e9e21a91464b7",
+    "name": "Niko Sigur",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "f941d1078274e8903efa47ffcb849612",
+    "name": "Lukáš Provod",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "fc4586f8366196efdb7e4fcd0810efe0",
+    "name": "Mojmír Chytil",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "81e49430649a36a5bf3f72cf4a9ece2d",
+    "name": "Khulumani Ndamane",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "9184cdb9c970e7b37d2a89399bf3da6b",
+    "name": "Samukele Kabini",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "18d644c7079436efeef847bca6c22500",
+    "name": "Park Jin-seob",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "7b90566e7feb300792d9081c34fd825a",
+    "name": "Luc de Fougerolles",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "4cd954244aaf6302859c48538df60b8d",
+    "name": "Lucas Mendes",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 54
+  },
+  {
+    "id": "d644482d2902171c987442a2a482e334",
+    "name": "Ivan Perišić",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "42ad614a981b0f0fe3c5fc5b9089d202",
+    "name": "Ermedin Demirović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 54
+  },
+  {
+    "id": "f04bab1382308ecaf20307044d8b10c9",
+    "name": "Elliot Anderson",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 54
+  },
+  {
+    "id": "d6e6a4e2c6b723abf17f71c026413674",
+    "name": "Riechedly Bazoer",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "f754a7ca9e35143fef4cfeda9aa27cb4",
+    "name": "Armando Obispo",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "044a35e7ea6a0ed42c28d9bf6133ed1a",
+    "name": "Krépin Diatta",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "d5e9735170290b9d39a3f32609a47b57",
+    "name": "Jonathan David",
+    "nation": "Canada",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "8db434715ddfb32c4b74aee32f03eddb",
+    "name": "Ayyoub Bouaddi",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 55
+  },
+  {
+    "id": "631f27f3e2cfecba1d63d743c1669e6f",
+    "name": "Boualem Khoukhi",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "08106ddd91ce8f56514f9551657784dd",
+    "name": "Daniel Svensson",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "3ef99cd3c4d68a81877f805a97505ffe",
+    "name": "Nando Pijnaker",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "df403d26535c4725dfe64c6a3488a237",
+    "name": "Rayan Aït-Nouri",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "1f3dfa91f72466310857fafdd84d7234",
+    "name": "Edgardo Fariña",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "ad87f9e70cbb44f584b370cd95ac73e5",
+    "name": "Érik Lira",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 55
+  },
+  {
+    "id": "c6bb933ea2a1e69fcc7927eea6d574ab",
+    "name": "Guillermo Varela",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "d3151e5f9319af575e50045e1452a016",
+    "name": "Dominic Hyam",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "32d7169cdbc3e601ef144dcb1980a04b",
+    "name": "Josip Stanišić",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "f6acaca9bbe48af0dc5efb0a5e2f94d8",
+    "name": "Zeki Çelik",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "f6bb15ed878b25d805fc4cd469f1c185",
+    "name": "Cameron Burgess",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "cd888319830e59c3ff31bf847e8e98a8",
+    "name": "Martin Ødegaard",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 55
+  },
+  {
+    "id": "eedacab889da44e5509f94355be04648",
+    "name": "Edin Džeko",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "0a44c7743ab6ecffbc1fae0681fd9a2c",
+    "name": "José Manuel López",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "f8d79a7ec8e55418372ae7f45eafb1ce",
+    "name": "Ibrahim Maza",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 55
+  },
+  {
+    "id": "206aea43f3c6561aa7759ffc256799c1",
+    "name": "Aimar Sher",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 55
+  },
+  {
+    "id": "f4800a5a5cef23ee8c81f397938c62b8",
+    "name": "Sead Kolašinac",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "6485c4b0b5001692d9dc583f01237676",
+    "name": "Cho Gue-sung",
+    "nation": "South Korea",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "4e89c30465d8872b9376079f3446a526",
+    "name": "Olwethu Makhanya",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "69f537eb3cc7956f8b3027bc873bd651",
+    "name": "Zakaria El Ouahdi",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 55
+  },
+  {
+    "id": "c91cfe86a40361e376aa9668be657a04",
+    "name": "Petar Musa",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "9ee1cb33af658d3aa6bb0adc36e53c99",
+    "name": "Vinícius Júnior",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "e9024e8044f9ae8473c935a9679ef5e3",
+    "name": "Ismaïla Sarr",
+    "nation": "Senegal",
+    "position": "FW",
+    "TAC": 55
+  },
+  {
+    "id": "7ed8af86010bdddda2ef71b486988baf",
+    "name": "Federico Viñas",
+    "nation": "Uruguay",
+    "position": "FW",
+    "TAC": 56
+  },
+  {
+    "id": "af5259d12e5b959c6d3e632b3dba1b74",
+    "name": "Grant Hanley",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "2eefe28ddacf4c5ea800bc7d1629afd6",
+    "name": "Redouane Halhal",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "169532f69765b2713bc78a0e9c25cf9b",
+    "name": "Félix Torres",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "561829875dc24515252b5164a1507eff",
+    "name": "Scott McKenna",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "12cf1d8509f739a97f70412e37141d9d",
+    "name": "Abdulla Abdullaev",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "d97065fe5960ecacfb55b597ebd3f7ff",
+    "name": "Rustam Ashurmatov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "5001b2ecbd6a3bd5841cc5735bb7cea6",
+    "name": "Manu Koné",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "887c08641287ac645bd7eca81015478d",
+    "name": "Daizen Maeda",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "2acbcd466f771b7b396150ab3bd06dfb",
+    "name": "Guéla Doué",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "357a202e17715e2bc26e35a928b10408",
+    "name": "Jhon Córdoba",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 56
+  },
+  {
+    "id": "deb1131f7307a079fe6f80e4e8fe81c1",
+    "name": "Francisco Trincão",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 56
+  },
+  {
+    "id": "b7613efd85d434a84a341b82b65cc4c9",
+    "name": "Deveron Fonville",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "9ce11d71e7323340819c66bbd59ecd28",
+    "name": "Sebastian Berhalter",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "7450a526fb8fa106ed6465c699614d71",
+    "name": "Joaquín Piquerez",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "97b6f5b0534d88e893c9ad571536e1ba",
+    "name": "Juan Fernando Quintero",
+    "nation": "Colombia",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "db56d363d9a2aff7b5e16845f7c75f1a",
+    "name": "Teun Koopmeiners",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "91a6c2914d0f2394a84d8141c176dd02",
+    "name": "Marcel Sabitzer",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "0cd1bb92b745c866898ed0522e0dc151",
+    "name": "Benjamin Nygren",
+    "nation": "Sweden",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "252b2fb2f2ad54b8ec529da50bf59161",
+    "name": "Carlens Arcus",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "a44e303959a2a52282258d782cfc5d21",
+    "name": "Sofyan Amrabat",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "2c46faa14a9ea9e6f58baef9a29f6568",
+    "name": "Cho Wi-je",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "ed13ff53670555995b07c7622a494cc6",
+    "name": "Fabinho",
+    "nation": "Brazil",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "78ec718572dbe0f03647dedb9adfafbb",
+    "name": "Michael Olise",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 56
+  },
+  {
+    "id": "e6fea85c444a675161cb3e8deb10a2ee",
+    "name": "N'Golo Kanté",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "aeb947d06f8953ec444ff906b82cdd74",
+    "name": "Johan Manzambi",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "0644efd40c251525e6454429d68e8a45",
+    "name": "Maghnes Akliouche",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "09022414c4a83557bb7ff81fde4b3c46",
+    "name": "Hannes Delcroix",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "c711fb96e662c114117232415c8c7cc8",
+    "name": "Abdulelah Al-Amri",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "b62ec015cae4cdf87862fcc8aae7b476",
+    "name": "Hassan Al-Tambakti",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "552d443e57164bb225fc812b6000a4d5",
+    "name": "Hamdy Fathy",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "f638933082a922bdbfa708ab3d7bc804",
+    "name": "Aaron Wan-Bissaka",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 56
+  },
+  {
+    "id": "ce47c3469f34a91676893b1eb1afda2c",
+    "name": "Alexis Saelemaekers",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "0627f8d8044fb2e4bfe97a45c7d1cbca",
+    "name": "Amirhossein Hosseinzadeh",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 56
+  },
+  {
+    "id": "9e7b78b92b4c8eb03a9573a437576dcb",
+    "name": "Ellyes Skhiri",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 56
+  },
+  {
+    "id": "5ef1913cc75023b1a54815d1b1498c7e",
+    "name": "Auston Trusty",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "9628cbed933cc972d642ca88b23e16a0",
+    "name": "Jules Koundé",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "29651646824f349bac801043be5574f4",
+    "name": "Jordy Alcívar",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "8d94ce121b6eb16ca0584b928544c7b2",
+    "name": "Juan José Cáceres",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "6bc0211a6afcb2d614edb576b4307e3f",
+    "name": "Ché Adams",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "878ce7e7d93a6e1f5093f0046f487565",
+    "name": "Kevin De Bruyne",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "fea619fc26bd137b9879da4122bb77ed",
+    "name": "Florian Wirtz",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "f220df3cce2a6db489c8f2619ea106f3",
+    "name": "Gustaf Lagerbielke",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "d9d4be6563e7449aa170ddf3599c2fe2",
+    "name": "Koni De Winter",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "a7a3a31ace2fec8209bef3d3be294d5c",
+    "name": "Nicolas Raskin",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "32240f19df408e972ad0127b757289cc",
+    "name": "Julián Quiñones",
+    "nation": "Mexico",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "8c813606b2050b3e2f2d3c461da68235",
+    "name": "Hossam Abdelmaguid",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "7dad1957a15ffbf0fbd2278660f00bc0",
+    "name": "Alexis Mac Allister",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "d7761cf95f92a58b90470fc7f750d94e",
+    "name": "Mohanad Lasheen",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "e4a9c897f1d1d82b0d7ee78feec6cd7a",
+    "name": "Alan Franco",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "f6f5de658ae1c382356a219eb1359401",
+    "name": "Tim Ream",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "e95e53b18c140adedd14811305ae9f89",
+    "name": "Yoane Wissa",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "08a1924635aec4f6d3542f24f1fd9776",
+    "name": "Arda Güler",
+    "nation": "Turkey",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "fe254afdd336495a7643012971d9c30b",
+    "name": "Roshon van Eijma",
+    "nation": "Curaçao",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "16935bc42b58a704a659b41e651cfbfc",
+    "name": "Marcos Llorente",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "bade75a6f54e0e5033e50980e3fba144",
+    "name": "Lewis Ferguson",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "5f0d719cf3fa598ede11a34a185dea8b",
+    "name": "Darwin Núñez",
+    "nation": "Uruguay",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "b760617a58d5a02e12e5b9494d0a699d",
+    "name": "Bukayo Saka",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "b7da191cc36ce38d9778a896fc5c96a1",
+    "name": "Matheus Cunha",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "3ecff30075b541c1f2790ff9549fcdfa",
+    "name": "Igor Matanović",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "a8c0cdf7bc613c29a578f403ee651a02",
+    "name": "Aurèle Amenda",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "d4d167fa4fbce7053d48d198639785be",
+    "name": "Tijjani Reijnders",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "93ee783ee8a44ea67b29378a6015b454",
+    "name": "Thabang Matuludi",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "9208f5525f5c6cfd1823227fe4e61598",
+    "name": "Kim Tae-hyeon",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "937c592a192dfee5abf9ad7e72a80cb5",
+    "name": "Pape Matar Sarr",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "7eb7c9eaafa05036385f6afe66a014c4",
+    "name": "Roderick Miller",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "d411ae662ebfe7e4f5c8235c20b13759",
+    "name": "Fidel Escobar",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 57
+  },
+  {
+    "id": "e0ac58e485313abc54efa9e1eaacd03c",
+    "name": "Sander Berge",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 57
+  },
+  {
+    "id": "266e65418f220d6e3b2a72c75cea57de",
+    "name": "Oh Hyeon-gyu",
+    "nation": "South Korea",
+    "position": "FW",
+    "TAC": 57
+  },
+  {
+    "id": "d4bf3cde1f370f3384cdab97c4caa51d",
+    "name": "Noah Sadiki",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "74507f360b0c2de39601d1fbf1ccaa84",
+    "name": "Luis Romo",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "3ebef56b0e811b4f5d1988bf37134fee",
+    "name": "Marwan Attia",
+    "nation": "Egypt",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "efab560f1aa35f28abbe94ddb222a08e",
+    "name": "Rani Khedira",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "3f69619d0ebfe26b532cb630c89e655f",
+    "name": "Jonas Adjetey",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "32055e031ad974fa84b9171d4e9034c1",
+    "name": "Marten de Roon",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "6762fdcac51686dc6805ab3da127663c",
+    "name": "Alexander Isak",
+    "nation": "Sweden",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "a81203a8c96527c91743741345825830",
+    "name": "Daniel Muñoz",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "a855a8f13c26ea1daeaad591c8f5f615",
+    "name": "Ramy Rabia",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "9ee252d003b603b2acf0fc56446a1a2e",
+    "name": "Florian Grillitsch",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "e49393d74dbfa9643049106f005077d4",
+    "name": "Zeno Debast",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "66de56f7eb5f54ecdc8dfd68e3740742",
+    "name": "Nicolás Tagliafico",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "dbdccc2fcf6a0869eac2ef66a7c1eb84",
+    "name": "Fabián Ruiz",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "963a554dae3563b0b5091665cfb8a304",
+    "name": "Mikel Merino",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "3fcd5c5b03e482952aa3f3d905c122b5",
+    "name": "Marc Cucurella",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "892cbd124e0e9004acf951ba46d95aaa",
+    "name": "Mikel Oyarzabal",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "7d174abe56c72d2b9155266994ba305c",
+    "name": "Gustavo Velázquez",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "001676d8b2206c3c157ef4da6de8d568",
+    "name": "Jackson Irvine",
+    "nation": "Australia",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "5b8a4b21a7225f6da80149d1e570c912",
+    "name": "Sebastián Cáceres",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "000287707da26ced1aefc78fd422f262",
+    "name": "João Félix",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "4f156fdd2b809ad57b8c9f932d56fafc",
+    "name": "Lee Han-beom",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "1103035156c813da9a9a9e28f19ae3d6",
+    "name": "Merchas Doski",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "e6d12d5405da3256528d78a3fb1bf9ba",
+    "name": "Alfie Jones",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "e5547a2baaf19bf2168dec1d2b6d6e6b",
+    "name": "Luca Jaquez",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "366129846095df420c3d224fc714eb5c",
+    "name": "Noussair Mazraoui",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "5c778c9082375e0bead71950aa3f4484",
+    "name": "Jarell Quansah",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "1888fc1fbecac99cc27acc3e8fd86d1f",
+    "name": "Derek Cornelius",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "8eb6687b13d023d3f66e37f3664714c7",
+    "name": "Jovo Lukić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "6369309d0b775bca8ce9e264517d2c78",
+    "name": "Soufiane Rahimi",
+    "nation": "Morocco",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "bbc7007897b4c7faea3deceeac5b3802",
+    "name": "Fredrik Aursnes",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "189e35fad7701a67ab4e039eaff84a4e",
+    "name": "Kojo Peprah Oppong",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "08008ac2e36c4f4c1f8d6ae362f7e951",
+    "name": "Henrik Falchener",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 58
+  },
+  {
+    "id": "21296fb3e50071f6f1714928805e36f7",
+    "name": "Désiré Doué",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "2ebadcd1722ca0c33394d8f16de9b98c",
+    "name": "Lamine Camara",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 58
+  },
+  {
+    "id": "877a6e94736cb862c75faabb937d3f29",
+    "name": "Ante Budimir",
+    "nation": "Croatia",
+    "position": "FW",
+    "TAC": 58
+  },
+  {
+    "id": "c41108809647cd87a1263327ed2613f4",
+    "name": "Ayoub El Kaabi",
+    "nation": "Morocco",
+    "position": "FW",
+    "TAC": 59
+  },
+  {
+    "id": "c007185068c26163180d2cf612e237d4",
+    "name": "Michael Svoboda",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "a466fdf8e8a4d0809a03548c50063b30",
+    "name": "Manuel Ugarte",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "2462e7d69b859d739337b982dfea7c36",
+    "name": "Fabián Balbuena",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "53c4cad39a073b5ade0677a51c4bb82e",
+    "name": "Marc Pubill",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "f434cac16b331ed71a42df6dd1a9af23",
+    "name": "Nuno Mendes",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "71207585c9827b1c49d478a811f24bf9",
+    "name": "Tyler Adams",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "4a4bfa9fe87f096d9c81c9a72923d92e",
+    "name": "Gavi",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "781e344d056b9d26afd275b614f5fc35",
+    "name": "Ferran Torres",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 59
+  },
+  {
+    "id": "6efbc65ffaf8d9e45fb1f4219995d88f",
+    "name": "Cristiano Ronaldo",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 59
+  },
+  {
+    "id": "4930eaaf100455113bfbc36f6e9a514e",
+    "name": "Elisha Owusu",
+    "nation": "Ghana",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "5a617d553bcb4c451ed26e5ab2093704",
+    "name": "Jiovany Ramos",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "94c8b812d3f8e13336854ed69536f5d7",
+    "name": "Stopira",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "734a2210944b3f7a83648dc450bf6e4b",
+    "name": "Micky van de Ven",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "e8dfa4fb29d86ff366626dd272a1287d",
+    "name": "Yacine Titraoui",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "d50d0a90cde0f63298c09183f0e692dd",
+    "name": "Odilon Kossounou",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "b5122c6fbbfd61186ecddfe7e5a2d1db",
+    "name": "Yan Diomande",
+    "nation": "Ivory Coast",
+    "position": "FW",
+    "TAC": 59
+  },
+  {
+    "id": "80bc84e1ced60f3cbf592be1120c4080",
+    "name": "Nkosinathi Sibisi",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "829e677fe56e703de4d4b38327b1ad99",
+    "name": "Kristian Thorstvedt",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "df6c011b6a4586b0e63d4e10264babd4",
+    "name": "Reece James",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "1db4a56958fff4ea46be45d7075efa46",
+    "name": "Bruno Guimarães",
+    "nation": "Brazil",
+    "position": "MF",
+    "TAC": 59
+  },
+  {
+    "id": "de878779ab660f510cbf6dd85d932a78",
+    "name": "Dan Burn",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "16ace790821490490c64f6eda496e4da",
+    "name": "Lucas Hernandez",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "324eed6f9f5ecfc6469a0a2110770b3e",
+    "name": "Robin Hranáč",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "83a79fc1ebf1c676272b64530f09b30c",
+    "name": "David Zima",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 59
+  },
+  {
+    "id": "b4b219408ce226ebdb4471a1ea69d4fe",
+    "name": "Alberto Quintero",
+    "nation": "Panama",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "36b48c107b306fecd9c580765c0a00b6",
+    "name": "Ahmed Maknzi",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "ddb1908b2d6e6385b4b899e13decce31",
+    "name": "Ali Yousif",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "dc9bb08721101bb9c1d16dd0bd8b1e64",
+    "name": "Manaf Younis",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "a509f93a77db4e3b3bf58c16938a7628",
+    "name": "Akam Hashim",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "5aaa0d1f5884ab28ce9ee2c47e907e23",
+    "name": "Zaid Tahseen",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "7aed46e229b436b40a6342de2ef2916f",
+    "name": "Bara Sapoko Ndiaye",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "98ce0595a3923776957aa5eab5520267",
+    "name": "Al-Hashmi Al-Hussain",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "9cf18c9c4d6c1c3850911649cc284791",
+    "name": "Tahsin Jamshid",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "2e53e5bcab420314613f9c10f43f1168",
+    "name": "Almoez Ali",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "41ac4b7220b4e6ff1e28a99d8d0c879a",
+    "name": "Homam Ahmed",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "b5ca653375ae5f4c1aeaac0b4ee80ca7",
+    "name": "Hassan Al-Haydos",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "17dad39a6abb1be32410c0ebb5410853",
+    "name": "Mohammed Muntari",
+    "nation": "Qatar",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "04e004b0de58ed59a86aa3ddd10115b9",
+    "name": "Issa Laye",
+    "nation": "Qatar",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "b3de784739b98077943dfa47e8f961bd",
+    "name": "Abdul Mumin",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "09f5c49e1962eb73df04639e9fd4b160",
+    "name": "Moïse Bombito",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "eb55557e6cf9d022549e483ae7ccbab1",
+    "name": "Zeki Amdouni",
+    "nation": "Switzerland",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "5aa1cc3ef9a0555493e21cc5516d79f3",
+    "name": "Alistair Johnston",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "647210cae21cce0631a5eea781ab7c23",
+    "name": "Nidal Čelik",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "96d6be66e6b9a7151cbe6ae2980ff9c2",
+    "name": "Zineddine Belaïd",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "66040b506ea7214dce566cb33ef32c1d",
+    "name": "Pape Gueye",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "60c15a0099c332defb84fcdca6815103",
+    "name": "Achref Abada",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "7c19e8c3a63159bbe559da55847a41be",
+    "name": "Emiliano Martínez",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "ca3b65f3ef71023481417586fd0fafd6",
+    "name": "Casemiro",
+    "nation": "Brazil",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "1c0085775355c7ac300b184426d2e69e",
+    "name": "Martin Expérience",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "6cfbe7e72c10d53b44d086dca5a5dae1",
+    "name": "Wesley",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "05c758c0ee57cbb69881d6c379e7c27a",
+    "name": "Jordan Henderson",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "4542171055bac258ed23e630b660e707",
+    "name": "Nico O'Reilly",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "b07eff774a0c507de4d0b676c323d978",
+    "name": "Keeto Thermoncy",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "5f0952923bee015be537ece09d18431b",
+    "name": "Woodensky Pierre",
+    "nation": "Haiti",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "29b45c0bf045445d349cb0db1c493262",
+    "name": "Pedro Porro",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "6c4f6358cffd39697e41804bb48d5c5a",
+    "name": "Roger Ibañez",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "90b5afa4c47644914ca124350b73ed9c",
+    "name": "Mehdi Taremi",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "8fb11f1efdfc325c08652ed7f3a84f55",
+    "name": "Milad Mohammadi",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "533525df44c1e3ecc02808c200f9e04d",
+    "name": "Finn Surman",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "1091efc2cae6dd54d04a47936ed3813f",
+    "name": "Logan Costa",
+    "nation": "Cape Verde",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "182cda2dee77963d6160a3c4219e250c",
+    "name": "Liberato Cacace",
+    "nation": "New Zealand",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "c8e4988bb9a977d6b65546037c9c4a09",
+    "name": "Ramin Rezaeian",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "41f91fa404423b8efedbdbb9382ded57",
+    "name": "Danial Eiri",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "20af00cbe000c09ebe653ff3ec08e7ea",
+    "name": "Amirmohammad Razzaghinia",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "159e70dbb34eec2c95c3d12be2c7879f",
+    "name": "Mateo Kovačić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "404d1735d7dd84db812caa19ec128966",
+    "name": "Josip Šutalo",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "2ebbee3b4c08e4d3f001927bc8fd0be5",
+    "name": "Bekhruz Karimov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "5c2cbe6282ab2602bb75789498d08ffb",
+    "name": "Lawrence Shankland",
+    "nation": "Scotland",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "a143f6e1490c2bc6d8dfe51795f29f94",
+    "name": "Sherzod Esanov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "0e499d7901d4d41ea6b0449040b118db",
+    "name": "Chadi Riad",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "b3fa0127fb3760880d22077d43fc9f63",
+    "name": "Aaron Hickey",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "a0c661c2e41d0a74e0609163f561a8bb",
+    "name": "Tyler Fletcher",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "8dde52c9d7146104d72eb4a3b6c422a2",
+    "name": "Abdülkerim Bardakcı",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "3076531c30c3388d117f4755bcf25411",
+    "name": "Salih Özcan",
+    "nation": "Turkey",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "1e5702cfe606195c224479c0bc5de43d",
+    "name": "Hossein Kanaanizadegan",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "eabc9650e93a417e99144a787137c629",
+    "name": "Facundo Medina",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "790df9e7f7c1ee996f7efeeeca71ecc6",
+    "name": "Aria Yousefi",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "33574ef326a8bc01f23011f86fe030b0",
+    "name": "Ali Nemati",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "fe5ad54d6bbd8588bddab960241e04a5",
+    "name": "Rouzbeh Cheshmi",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "d87d4fa46dcad1f4ec7487ccd359fc77",
+    "name": "Mehdi Torabi",
+    "nation": "Iran",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "8c70a58c7d84eff8124606b414bcddc1",
+    "name": "Ali Alipour",
+    "nation": "Iran",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "05f1a435dbd86f4fc047a27b64e3c907",
+    "name": "Nathan Patterson",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "663cd2b9e8424dfa43317f5fc2f6236c",
+    "name": "Cammy Devlin",
+    "nation": "Australia",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "f531a7837a71de5a7501dc073b03ae81",
+    "name": "Mathew Leckie",
+    "nation": "Australia",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "c463cb988c8aa45ec1d394156ec9eebc",
+    "name": "Harry Souttar",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "4849c4ee6dcad4df7355265c7c3e6e9b",
+    "name": "Jaloliddin Masharipov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "8a70a1e4d07985c6ddce329eda1c782a",
+    "name": "Oston Urunov",
+    "nation": "Uzbekistan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "f7b12edb053ce322f094c4fd8c895cba",
+    "name": "Çağlar Söyüncü",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "d0294385c1a159cef3f853988582e7e6",
+    "name": "Aymen Hussein",
+    "nation": "Iraq",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "3671cec06a6343cecfb30a897f6bdee2",
+    "name": "Zaid Ismail",
+    "nation": "Iraq",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "e8f81625fc95c5b24ed97b04acd68106",
+    "name": "Mustafa Saadoon",
+    "nation": "Iraq",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "e6a1ae81f9ecb0da1a79d2cbb7e8cabf",
+    "name": "Andrés Andrade",
+    "nation": "Panama",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "6338047136a8dd204d9132b6c0bd7952",
+    "name": "Hugo Sochůrek",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "8505f8ed1d1bb5a0e271e824b48a21b9",
+    "name": "Mamadou Sarr",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "ac4f4200754a58bcf9c8f60926f95b47",
+    "name": "Ali Azaizeh",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "e8f0958c9bad423dbb12bd6edb90bd85",
+    "name": "Ehsan Hajsafi",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "7bc464a048dfc6d1e6e4bc0bb33474ac",
+    "name": "Timothy Castagne",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "c9ce0099205eb8625def8ef9d9b37e92",
+    "name": "Karim Hafez",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "aa5e4fc8f674605b2224e81eddec8872",
+    "name": "David Alaba",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "9955088d9b54740008c68eb7c560bb63",
+    "name": "Hamza Abdelkarim",
+    "nation": "Egypt",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "427f75f66814e1abbb8cac2c93f28144",
+    "name": "Mohamed Abdelmonem",
+    "nation": "Egypt",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "af9cf61ea3f22a92445b849d003c4233",
+    "name": "Musa Al-Taamari",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "ff647dfc09082eb48eccb83f4c1f30ed",
+    "name": "Ali Olwan",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "1058169637f7556e5541da73a50005f4",
+    "name": "Ozan Kabak",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "7b3793bdd8f19dd8d36a98fb3e1579ce",
+    "name": "Youri Tielemans",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "8bf45f8149faeda0e46a028a4a17d713",
+    "name": "Raed Chikhaoui",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "84842258354977b2d6c4120cc81b9199",
+    "name": "Moutaz Neffati",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "9c0887d35b5f3b6327b7204489e1b660",
+    "name": "Odeh Al-Fakhouri",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "7cb594829cc815b030d6f8659d00881c",
+    "name": "Mohammad Abu Zrayq",
+    "nation": "Jordan",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "aec9f00efb8b62a54277b814f539943e",
+    "name": "Mohammad Abu Hashish",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "f9e37b84efb4711aab3271c1698fe683",
+    "name": "Abdallah Nasib",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "3db5e7b4c79f1c303123b1eb04449e67",
+    "name": "Husam Abu Dahab",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "ff567b0e176469991074e1e8683467ec",
+    "name": "Firas Chaouat",
+    "nation": "Tunisia",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "84b34f4147b244c746b386ff9e3e9e35",
+    "name": "Romelu Lukaku",
+    "nation": "Belgium",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "8263f7ac94a09d3b14eceb4ec9f53ac7",
+    "name": "Anas Badawi",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "2745298a4e39d8b9ded51272e17a7f01",
+    "name": "Mohammad Al-Dawoud",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "de9abe5f6eccabe300ade294153ff38f",
+    "name": "Khalil Ayari",
+    "nation": "Tunisia",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "d150b63e554cce7f4832a4d8563d440d",
+    "name": "Felix Nmecha",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "055f3eb36139207e84fe18ac08703973",
+    "name": "Assan Ouédraogo",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "ea8aba4f0a4291a7198099121e9e08cf",
+    "name": "Théo Bongonda",
+    "nation": "DR Congo",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "523f3e815f96c7d0b4f8c4e6c12f9f8b",
+    "name": "Adam Hložek",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "8f0719b845fadcf060365bd57453337b",
+    "name": "Patrik Schick",
+    "nation": "Czech Republic",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "2f80398fbcaf7dcee97198cb97708287",
+    "name": "Saed Al-Rosan",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "8930a45c4f40ec3ffe36573eef117478",
+    "name": "Salim Obaid",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "8aa175041266e62bdd3a5d595d0ec316",
+    "name": "Rajaei Ayed",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "5affae794f84c9ca9c96a1d365f79ea0",
+    "name": "Takehiro Tomiyasu",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "40056422978307d360290005cc7b4351",
+    "name": "Jurriën Timber",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "ef3fef59e6904d378c9497b0d5b7e6b5",
+    "name": "Ihsan Haddad",
+    "nation": "Jordan",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "a7a5e440aac1c2c0005b7fba18761307",
+    "name": "Ibrahim Sadeh",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "3ba4c08a7289fbb84e21d3cefedf777b",
+    "name": "Mohannad Abu Taha",
+    "nation": "Jordan",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "a65a80dd75e37464c44bb0f3044b4653",
+    "name": "Gustaf Nilsson",
+    "nation": "Sweden",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "dd6a3de22a18dc23fc87fe0bc79ebb6c",
+    "name": "Ernest Nuamah",
+    "nation": "Ghana",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "bd24774b41785161a4b5928e703a40a7",
+    "name": "Marvin Senaya",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "d799c40d0f3dad68561dc9740069e926",
+    "name": "Luis Chávez",
+    "nation": "Mexico",
+    "position": "MF",
+    "TAC": 60
+  },
+  {
+    "id": "e1b58005f836d2139e32fdeea1470109",
+    "name": "Thapelo Maseko",
+    "nation": "South Africa",
+    "position": "FW",
+    "TAC": 60
+  },
+  {
+    "id": "4034cc7022cc990cd8634d3b0e1684d2",
+    "name": "Mbekezeli Mbokazi",
+    "nation": "South Africa",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "d4eb25cc3679daee7d954d0d22137148",
+    "name": "Štěpán Chaloupek",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 60
+  },
+  {
+    "id": "26f7536ad35e666063dbd475e066f165",
+    "name": "Julián Alvarez",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 61
+  },
+  {
+    "id": "925df70dacd80158ed685e76209b6984",
+    "name": "Neil El Aynaoui",
+    "nation": "Morocco",
+    "position": "MF",
+    "TAC": 61
+  },
+  {
+    "id": "42ff318d96ab06ca629d328fad58d157",
+    "name": "Weston McKennie",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 61
+  },
+  {
+    "id": "c2d08d35c9ff3970934f2cfc4286f740",
+    "name": "Shojae Khalilzadeh",
+    "nation": "Iran",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "3cad80968a0dff7329535911d2fe8590",
+    "name": "Júnior Alonso",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "08bc209f71f19a11bb26083dc23bec90",
+    "name": "Ricardo Pepi",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 61
+  },
+  {
+    "id": "300d08de6b76b134605bb2ef41023037",
+    "name": "Stefan Posch",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "22bf7746b8a0b28aa3e3d36f400cd576",
+    "name": "Montassar Talbi",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "692934bbcd484f2cbd27c89e385887d5",
+    "name": "Dylan Bronn",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "f1807878d34c501c9d680da246f8839a",
+    "name": "Mark McKenzie",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "cbd845592153a704332d5f408d820a6f",
+    "name": "Endrick",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 61
+  },
+  {
+    "id": "27382b2cad04e6962c85d891033baf83",
+    "name": "Nabil Bentaleb",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 61
+  },
+  {
+    "id": "e39d74ab98239cadb1568517b80c9e95",
+    "name": "Ramiz Zerrouki",
+    "nation": "Algeria",
+    "position": "MF",
+    "TAC": 61
+  },
+  {
+    "id": "d7f778c36b9b8766d2ddd17cb638e60a",
+    "name": "Alphonso Davies",
+    "nation": "Canada",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "aba1474b38d5cc3941f0ad2665ebc3bd",
+    "name": "Ali Lajami",
+    "nation": "Saudi Arabia",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "0d466fdcfe835c3afc7f3b5181558b21",
+    "name": "Nikola Katić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "d38b8485f62d5a15d2da78c45988e8cb",
+    "name": "Kristoffer Ajer",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "f8ec6441075fa29603acb90d8fac34aa",
+    "name": "Kō Itakura",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "bec440b9717fad3d8c543611a26a5db5",
+    "name": "Tomáš Souček",
+    "nation": "Czech Republic",
+    "position": "MF",
+    "TAC": 61
+  },
+  {
+    "id": "c8f8436abd375cce70ed36f7692dac2a",
+    "name": "Mats Wieffer",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "97374d8cb77ff42efd0b48ebbd173422",
+    "name": "Joris Kayembe",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "1f3dae835b540c7e58325950244acf04",
+    "name": "César Montes",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "34d1c0ed60e4ee97b100faa2cfea0f60",
+    "name": "Vladimír Coufal",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 61
+  },
+  {
+    "id": "2baff9e99863714fa4d68f813684cefc",
+    "name": "Tomáš Holeš",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "111ceb0b6be4084a8b85af3ca0c6ac72",
+    "name": "Ladislav Krejčí",
+    "nation": "Czech Republic",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "621a5bd5ad14523d5dba4c45d772d27b",
+    "name": "Jerome Opoku",
+    "nation": "Ghana",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "efda2a81c67648d3fdda4254a0af973b",
+    "name": "Kalidou Koulibaly",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "bed650104d6b2c5c7a5ab7dc6149316e",
+    "name": "Kaishū Sano",
+    "nation": "Japan",
+    "position": "MF",
+    "TAC": 62
+  },
+  {
+    "id": "1f6e500f6e4fdeab4dd27844555c5dcc",
+    "name": "Isak Hien",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "fad9a41d843987522414d18f82645260",
+    "name": "Angelo Stiller",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 62
+  },
+  {
+    "id": "6935d9863156a992577dbe374f16a6d0",
+    "name": "Ousmane Diomande",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "33201adb0aca43cea8da07d62257c20e",
+    "name": "Joel Ordóñez",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "e21f0c958f04f543b0259c402fafbf44",
+    "name": "Shōgo Taniguchi",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "3168c4721cc355cac559717362d4b72d",
+    "name": "Luis Suárez",
+    "nation": "Colombia",
+    "position": "FW",
+    "TAC": 62
+  },
+  {
+    "id": "5c8d33691946581bdeb94fa89772afab",
+    "name": "İsmail Yüksek",
+    "nation": "Turkey",
+    "position": "MF",
+    "TAC": 62
+  },
+  {
+    "id": "02df38078ee7025964287c34286f8bb2",
+    "name": "Scott McTominay",
+    "nation": "Scotland",
+    "position": "MF",
+    "TAC": 62
+  },
+  {
+    "id": "03fbc8811f0b3ebd96947e9060c844ca",
+    "name": "Lautaro Martínez",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 62
+  },
+  {
+    "id": "98f7cf4956be03d0a6364778c1d15823",
+    "name": "Rúben Neves",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 62
+  },
+  {
+    "id": "0d29add0fb9bceb7aa6baf696bc27111",
+    "name": "Gonçalo Inácio",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "a18be581443c3370fea49d07b6790559",
+    "name": "Danilo Luiz",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "88fc741bedad9ea88a910a485914de36",
+    "name": "Mathías Olivera",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "a89e54470a6e017b0c1a29681cc36005",
+    "name": "Ronald Araújo",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 62
+  },
+  {
+    "id": "497489ffd6c5aad4a0c548d5e59ffbdd",
+    "name": "Lamine Yamal",
+    "nation": "Spain",
+    "position": "FW",
+    "TAC": 62
+  },
+  {
+    "id": "2e9780c45ff9d5f40dc4d59fe6e38215",
+    "name": "Viktor Gyökeres",
+    "nation": "Sweden",
+    "position": "FW",
+    "TAC": 63
+  },
+  {
+    "id": "0ff740ab7a23c44a198f49e781a26001",
+    "name": "Thomas Meunier",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "2f4f64db7f95f812d821bd4e775da255",
+    "name": "Malik Tillman",
+    "nation": "United States",
+    "position": "MF",
+    "TAC": 63
+  },
+  {
+    "id": "9249cbc36ab12ee1a4d02266cf8ba26f",
+    "name": "Douglas Santos",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "814da14f5630a06df56419c5e23d8922",
+    "name": "Marin Pongračić",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "8730545f99138509d9c4e178ca953d9b",
+    "name": "Torbjørn Heggem",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "1af19c5ee7f5252acdedeecd7d472bdd",
+    "name": "Chris Richards",
+    "nation": "United States",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "5fc2acb567895222582dc435d7353685",
+    "name": "Rodrigo Bentancur",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 63
+  },
+  {
+    "id": "ea637531b844a7867fc78686d1797a7a",
+    "name": "Pedri",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 63
+  },
+  {
+    "id": "62a845d5fe1a3c9a033e3dd996f7a15a",
+    "name": "Tomás Araújo",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "8c9c9e4dd2c7ef2c101e498a07885fa0",
+    "name": "Eray Cömert",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 63
+  },
+  {
+    "id": "e27a0bc061d94228aadbc488264ebe28",
+    "name": "Nadiem Amiri",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "c126dbecd6beb834b520ee92051be9d3",
+    "name": "João Neves",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "e8e14bc07a121e26ae60eaed0724389b",
+    "name": "Alejandro Zendejas",
+    "nation": "United States",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "f762ea9ba16ff8818c8d5a30219ba0a9",
+    "name": "Amadou Onana",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "40ae50e4500834e3b7aa00d4f6ba40d7",
+    "name": "John Souttar",
+    "nation": "Scotland",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "e31638ec54281fb4223c3f3b3fae7beb",
+    "name": "Exequiel Palacios",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "9f3e805cf0b10d05da92fa81287c3b02",
+    "name": "Nico Paz",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "312c14054c2c1f3ff8d4d756e17e2eb1",
+    "name": "Lionel Messi",
+    "nation": "Argentina",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "5048a5d025252cb692d45a05a70b5055",
+    "name": "John Stones",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "7a55e4994146501dc8176bf5951b0d68",
+    "name": "Ricardo Adé",
+    "nation": "Haiti",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "7f55634a194497dfb7eb337efab33f01",
+    "name": "Ivan Toney",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "d782f73cb4cf127255bf0eefb3d554a8",
+    "name": "Ousmane Dembélé",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "befeda66a492f51a4af8f75aca0d3574",
+    "name": "Frenkie de Jong",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "675b52e005c4cc9163536e8af61be2ed",
+    "name": "Simon Banza",
+    "nation": "DR Congo",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "91a1955bd8a5458fc0b652d288ca4b2e",
+    "name": "Leon Goretzka",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 64
+  },
+  {
+    "id": "1875c03dadc3141d115ee777fd09ad87",
+    "name": "Antonio Rüdiger",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "212f749f110351500153fcb1df225f01",
+    "name": "Eric Smith",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "b067ef29be40d01d00505ce48d9a41ee",
+    "name": "Bradley Barcola",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 64
+  },
+  {
+    "id": "a2154600bc06b0f505274b96432d3e6f",
+    "name": "Ibrahima Konaté",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 64
+  },
+  {
+    "id": "bb3939d146a22d75fbd23404e7b8c4ba",
+    "name": "Jackson Porozo",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "0faa614f926105ded678900a756ef94c",
+    "name": "Willer Ditta",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "07eb97744490cd6b9dd0a46a527a7905",
+    "name": "Ayumu Seko",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "825fac88b95e2f34fadcdb7c042337c5",
+    "name": "Gustavo Gómez",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "22b7c67baf7f7fcd3caf4eda9f46b338",
+    "name": "Rodri",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 65
+  },
+  {
+    "id": "93fb31b7fb318e772cd3de9aec50aea0",
+    "name": "Davinson Sánchez",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "146045d61b764e20a3ebd658896d15b7",
+    "name": "Ryan Gravenberch",
+    "nation": "Netherlands",
+    "position": "MF",
+    "TAC": 65
+  },
+  {
+    "id": "91354c1a4bf2df0701d340e805e219d2",
+    "name": "Gonçalo Ramos",
+    "nation": "Portugal",
+    "position": "FW",
+    "TAC": 65
+  },
+  {
+    "id": "626b60b01b05bc2eeb40357bd3ee462a",
+    "name": "Renato Veiga",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "a65309ed1802134f7e06b1b7a8e3dabb",
+    "name": "Kevin Danso",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "2d39bcc90d6161ad7c5b6fdd1f7984e8",
+    "name": "Alessandro Circati",
+    "nation": "Australia",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "f608f29f18ac1610808532c608e5206b",
+    "name": "Omar Alderete",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "fa9916335513cde82607f9fc7d570d52",
+    "name": "Hans Vanaken",
+    "nation": "Belgium",
+    "position": "MF",
+    "TAC": 65
+  },
+  {
+    "id": "650623cc43f68287824b273d1ba6a404",
+    "name": "Aymeric Laporte",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "cac69aa223d7b634826819b16cb2e0e3",
+    "name": "Idrissa Gueye",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 65
+  },
+  {
+    "id": "a8280422d8fa7a38b0f66b0a1e774e50",
+    "name": "Israel Reyes",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "543e03c8209daafab63805f94f80b12a",
+    "name": "Samet Akaydin",
+    "nation": "Turkey",
+    "position": "DF",
+    "TAC": 65
+  },
+  {
+    "id": "82865e9c0a7ca7ca09e60b159fd7348f",
+    "name": "Bruno Fernandes",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 66
+  },
+  {
+    "id": "c955f70e57dc25349804e3be0b7431b5",
+    "name": "Saša Kalajdžić",
+    "nation": "Austria",
+    "position": "FW",
+    "TAC": 66
+  },
+  {
+    "id": "117dad06d49f3bfe129d09b083f5565f",
+    "name": "Stjepan Radeljić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 66
+  },
+  {
+    "id": "0024e51d7b045117658d7a5f6d98424e",
+    "name": "Pau Cubarsí",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 66
+  },
+  {
+    "id": "350e51274cd28164a04a797b07113d3e",
+    "name": "Martín Zubimendi",
+    "nation": "Spain",
+    "position": "MF",
+    "TAC": 66
+  },
+  {
+    "id": "aede695a51066cfa05ef80dbf327ef5e",
+    "name": "Remo Freuler",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 66
+  },
+  {
+    "id": "a3e56dc59d7381efcf3e47ae2ed1008c",
+    "name": "Willian Pacho",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 66
+  },
+  {
+    "id": "134297bdc733c50d96ce292efbfec976",
+    "name": "Aleksandar Pavlović",
+    "nation": "Germany",
+    "position": "MF",
+    "TAC": 66
+  },
+  {
+    "id": "6278db7b7c96188b4e54841e4c5c25d3",
+    "name": "Tsuyoshi Watanabe",
+    "nation": "Japan",
+    "position": "DF",
+    "TAC": 66
+  },
+  {
+    "id": "89a4e68bad4d9e57029f2b3fa9c399c9",
+    "name": "Ramy Bensebaini",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "dca3d6a3b8da10c4b7a9f5bb58bff5a4",
+    "name": "Léo Pereira",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "2e42b670f49a3b7047db74d8224aae32",
+    "name": "Igor Thiago",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 67
+  },
+  {
+    "id": "9423b67c02a92d772ef4fdc1f3763143",
+    "name": "Martin Erlić",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "7daee073644a8e93ab54920707b0f26e",
+    "name": "Ibrahim Sangaré",
+    "nation": "Ivory Coast",
+    "position": "MF",
+    "TAC": 67
+  },
+  {
+    "id": "52159de99dda7ce7dab056abd4eb8931",
+    "name": "Matheus Nunes",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 67
+  },
+  {
+    "id": "4b81059728b6769ac849b5e9d9432a88",
+    "name": "Kim Min-jae",
+    "nation": "South Korea",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "bc5a0a34aee413b13c8f8c7dbfe94761",
+    "name": "Patrick Berg",
+    "nation": "Norway",
+    "position": "MF",
+    "TAC": 67
+  },
+  {
+    "id": "537908292eeaa71ced68d3a10c6ce665",
+    "name": "Dayot Upamecano",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "fc54a8beecbdce29f27f67867a6cbde2",
+    "name": "Raphinha",
+    "nation": "Brazil",
+    "position": "FW",
+    "TAC": 67
+  },
+  {
+    "id": "a9e924623303ad04eae09bb318205c18",
+    "name": "Cristian Romero",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "c6835cc18849c71d81b8ab8c2b119984",
+    "name": "Joško Gvardiol",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "7a22e572bd1000cf66c2c08ae0571da5",
+    "name": "Arthur Theate",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 67
+  },
+  {
+    "id": "19223244a61bb93ed66fadbfa94e3f59",
+    "name": "Nicolas Seiwald",
+    "nation": "Austria",
+    "position": "MF",
+    "TAC": 68
+  },
+  {
+    "id": "4a94a7b5df0ccbe3d729e90014072a85",
+    "name": "Ezri Konsa",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 68
+  },
+  {
+    "id": "e2b5023f9a46088a3396af11ad5aebd7",
+    "name": "Denis Zakaria",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 68
+  },
+  {
+    "id": "fd3c293f31bbf907a85a6bb980331754",
+    "name": "José Canale",
+    "nation": "Paraguay",
+    "position": "DF",
+    "TAC": 68
+  },
+  {
+    "id": "64421d5ee95521eb9ef2f643eb378e6b",
+    "name": "Jude Bellingham",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 68
+  },
+  {
+    "id": "5a0447b4b77aae0526fe6e363026013b",
+    "name": "Marquinhos",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 68
+  },
+  {
+    "id": "b9c345c9360940158100b2d574b5d89f",
+    "name": "Granit Xhaka",
+    "nation": "Switzerland",
+    "position": "MF",
+    "TAC": 69
+  },
+  {
+    "id": "c45e22d89511bf43bda6115f84aab46b",
+    "name": "Nikola Moro",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 69
+  },
+  {
+    "id": "de827ddc74a04fcafc4c676c3686c8d0",
+    "name": "Nathan Ngoy",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "414584e9e2d8386017fc938176f9da8e",
+    "name": "Moussa Niakhaté",
+    "nation": "Senegal",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "e51950d9833360a62214bba4be15eac5",
+    "name": "Manuel Akanji",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "9d2f38aa19d0721cf0e1a106fbbaa697",
+    "name": "Adem Arous",
+    "nation": "Tunisia",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "0ed90cb2a46825b093a2d3fa70c96f64",
+    "name": "Chancel Mbemba",
+    "nation": "DR Congo",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "0ec52ce5b0989d6f70e5529a6052efb0",
+    "name": "Evan Ndicka",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "9c867aae2c9fe33016a71b6f20381e18",
+    "name": "Jonathan Tah",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "ab302df67de875633ffb078d4084ccc5",
+    "name": "David Affengruber",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 69
+  },
+  {
+    "id": "b8f6c2e6a921624196d885896689eccd",
+    "name": "William Saliba",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 70
+  },
+  {
+    "id": "505859bf6cb02f0819da0a3fe1dad51e",
+    "name": "Adrien Rabiot",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 70
+  },
+  {
+    "id": "ac9a48bf6201eba063a03f3d68be5a01",
+    "name": "Malick Thiaw",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 70
+  },
+  {
+    "id": "659d9b4543ec4a825d118f11c6f39147",
+    "name": "Vitinha",
+    "nation": "Portugal",
+    "position": "MF",
+    "TAC": 70
+  },
+  {
+    "id": "d2d47e6ba787c176352c7e4597bcef9d",
+    "name": "Pathé Ciss",
+    "nation": "Senegal",
+    "position": "MF",
+    "TAC": 71
+  },
+  {
+    "id": "6811995e949cf591f94f4110ee9d84f9",
+    "name": "Maxence Lacroix",
+    "nation": "France",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "960f3799d4441862f71ba074d484d1af",
+    "name": "Federico Valverde",
+    "nation": "Uruguay",
+    "position": "MF",
+    "TAC": 71
+  },
+  {
+    "id": "f1670981d5668157c65c90512e505394",
+    "name": "Eric García",
+    "nation": "Spain",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "5f4de6f698c34d70d8a2306f7b022920",
+    "name": "Leandro Paredes",
+    "nation": "Argentina",
+    "position": "MF",
+    "TAC": 71
+  },
+  {
+    "id": "f912aacefa058b91dbd3fd6298273e28",
+    "name": "Jan Paul van Hecke",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "1335c2ef498c625b90fa9c2548f06b42",
+    "name": "Piero Hincapié",
+    "nation": "Ecuador",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "8da895ccee28d5f89d3691e0716b8d0e",
+    "name": "Santiago Bueno",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "5c4c456d608e822b7a36b82f4cb73962",
+    "name": "Wilfried Singo",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 71
+  },
+  {
+    "id": "c8a2c9b7de4e6fe3bf224c938daca03b",
+    "name": "Philipp Lienhart",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 72
+  },
+  {
+    "id": "727c5726eb25dc0c511a376c89a587b7",
+    "name": "Hakan Çalhanoğlu",
+    "nation": "Turkey",
+    "position": "MF",
+    "TAC": 72
+  },
+  {
+    "id": "857fd4e3965dce863de39c00c66e9545",
+    "name": "Waldemar Anton",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 72
+  },
+  {
+    "id": "a29930f00e82428e972ab0a7520f30c8",
+    "name": "Moisés Caicedo",
+    "nation": "Ecuador",
+    "position": "MF",
+    "TAC": 72
+  },
+  {
+    "id": "b8c7cbd4ca305c1ccee5634b4a8351a2",
+    "name": "Brandon Mechele",
+    "nation": "Belgium",
+    "position": "DF",
+    "TAC": 72
+  },
+  {
+    "id": "2d9a5eeff80191dc51ae0ba12f13903a",
+    "name": "José Giménez",
+    "nation": "Uruguay",
+    "position": "DF",
+    "TAC": 72
+  },
+  {
+    "id": "6186025f30f32f2caead4bf3679f33d7",
+    "name": "Jhon Lucumí",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 72
+  },
+  {
+    "id": "4bfe9166e7e15bbddf85835c7fee7dd0",
+    "name": "Johan Vásquez",
+    "nation": "Mexico",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "22d542efc8b68dfd3cd96a8dfd85de5b",
+    "name": "Joshua Kimmich",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "0aca6ae9d36d59e35e6762a6b67eb8be",
+    "name": "Rúben Dias",
+    "nation": "Portugal",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "c269f3e5da995a22be07fcd3933a5a09",
+    "name": "Emmanuel Agbadou",
+    "nation": "Ivory Coast",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "1b5da4132c40367139d71c2502d4ca72",
+    "name": "Nicolás Otamendi",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "d52f77edfadd31e11c4ff6f97a758a44",
+    "name": "Duje Ćaleta-Car",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "74303b6d6ec87b4c9fc3b04fd9d48ead",
+    "name": "Marc Guéhi",
+    "nation": "England",
+    "position": "DF",
+    "TAC": 73
+  },
+  {
+    "id": "56c74ac8ec73072ceac41cd4d1309da8",
+    "name": "Yerry Mina",
+    "nation": "Colombia",
+    "position": "DF",
+    "TAC": 74
+  },
+  {
+    "id": "946073c99c6283525b9ac9a6e74c15fb",
+    "name": "Carl Starfelt",
+    "nation": "Sweden",
+    "position": "DF",
+    "TAC": 74
+  },
+  {
+    "id": "8528a15d774b3a442805b24afb1a0a6a",
+    "name": "Abdukodir Khusanov",
+    "nation": "Uzbekistan",
+    "position": "DF",
+    "TAC": 74
+  },
+  {
+    "id": "a368a07c58147ead4dc97d83c1499a22",
+    "name": "Luka Modrić",
+    "nation": "Croatia",
+    "position": "MF",
+    "TAC": 74
+  },
+  {
+    "id": "d743136b4967afb9c3411aa425aab085",
+    "name": "Nayef Aguerd",
+    "nation": "Morocco",
+    "position": "DF",
+    "TAC": 75
+  },
+  {
+    "id": "b45f354fd2604f64f31f69780a37c177",
+    "name": "Kylian Mbappé",
+    "nation": "France",
+    "position": "FW",
+    "TAC": 75
+  },
+  {
+    "id": "31a5994cdd17bc7dbab2afb33eb336a7",
+    "name": "Declan Rice",
+    "nation": "England",
+    "position": "MF",
+    "TAC": 75
+  },
+  {
+    "id": "0b8d5fea08e98607d5c4ce19224dc490",
+    "name": "Leo Østigård",
+    "nation": "Norway",
+    "position": "DF",
+    "TAC": 76
+  },
+  {
+    "id": "4008503652f23365527ea49e38ad30bf",
+    "name": "Aurélien Tchouaméni",
+    "nation": "France",
+    "position": "MF",
+    "TAC": 76
+  },
+  {
+    "id": "32a554188543ac17d56ea8cddc39e704",
+    "name": "Luka Vušković",
+    "nation": "Croatia",
+    "position": "DF",
+    "TAC": 76
+  },
+  {
+    "id": "f08fdfcc696db9f83da115da9387b7ef",
+    "name": "Aïssa Mandi",
+    "nation": "Algeria",
+    "position": "DF",
+    "TAC": 76
+  },
+  {
+    "id": "b7941d0eb5248fa225523120927cf24d",
+    "name": "Tarik Muharemović",
+    "nation": "Bosnia and Herzegovina",
+    "position": "DF",
+    "TAC": 77
+  },
+  {
+    "id": "069d0e3cf06c8604b1952eff60b532d0",
+    "name": "Nico Elvedi",
+    "nation": "Switzerland",
+    "position": "DF",
+    "TAC": 77
+  },
+  {
+    "id": "cc4d8597688b67198cbd06d911c0f350",
+    "name": "Lisandro Martínez",
+    "nation": "Argentina",
+    "position": "DF",
+    "TAC": 77
+  },
+  {
+    "id": "2c5bc6e1f91cde0ecad8db3011654836",
+    "name": "Bremer",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 78
+  },
+  {
+    "id": "819c2dddade4682be2e5f9a5d15d7c7c",
+    "name": "Virgil van Dijk",
+    "nation": "Netherlands",
+    "position": "DF",
+    "TAC": 78
+  },
+  {
+    "id": "1f8dff598bce8d7a1d7a2cf3895547c2",
+    "name": "Erling Haaland",
+    "nation": "Norway",
+    "position": "FW",
+    "TAC": 78
+  },
+  {
+    "id": "92fa6018a3a0d99999aa78ab9c78da9d",
+    "name": "Marco Friedl",
+    "nation": "Austria",
+    "position": "DF",
+    "TAC": 79
+  },
+  {
+    "id": "382cef994e0278e38425d04affd905d8",
+    "name": "Gabriel Magalhães",
+    "nation": "Brazil",
+    "position": "DF",
+    "TAC": 82
+  },
+  {
+    "id": "97e31e9a893fd73e884b6ef6d1668925",
+    "name": "Harry Kane",
+    "nation": "England",
+    "position": "FW",
+    "TAC": 83
+  },
+  {
+    "id": "6faae35a6e0b2a12cb709f23fd149c98",
+    "name": "Nico Schlotterbeck",
+    "nation": "Germany",
+    "position": "DF",
+    "TAC": 85
+  }
+]

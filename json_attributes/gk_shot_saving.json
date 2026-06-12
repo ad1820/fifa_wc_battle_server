@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "7638c9134e5b9593900847dddf9bfb3e",
+    "name": "Aymen Dahmen",
+    "nation": "Tunisia",
+    "position": "GK",
+    "SAV": 45
+  },
+  {
+    "id": "15ef206de02c14e15184d8654fa58223",
+    "name": "Salah Zakaria",
+    "nation": "Qatar",
+    "position": "GK",
+    "SAV": 47
+  },
+  {
+    "id": "bee3a33ab60555e2859ad8bb1f9701f0",
+    "name": "César Samudio",
+    "nation": "Panama",
+    "position": "GK",
+    "SAV": 47
+  },
+  {
+    "id": "c08687f7ba034fe2fbf166a98e311154",
+    "name": "Márcio Rosa",
+    "nation": "Cape Verde",
+    "position": "GK",
+    "SAV": 49
+  },
+  {
+    "id": "259bbe17fe8489afe226759772f8be78",
+    "name": "Guillermo Ochoa",
+    "nation": "Mexico",
+    "position": "GK",
+    "SAV": 49
+  },
+  {
+    "id": "8b02fc714c2f8d58f54442d38689318b",
+    "name": "Vozinha",
+    "nation": "Cape Verde",
+    "position": "GK",
+    "SAV": 50
+  },
+  {
+    "id": "ce0d79eecb9fac8ccc26612592f5c8b5",
+    "name": "Alexandre Pierre",
+    "nation": "Haiti",
+    "position": "GK",
+    "SAV": 51
+  },
+  {
+    "id": "1e693d24e137696df552e22cb001d1e7",
+    "name": "Alex Paulsen",
+    "nation": "New Zealand",
+    "position": "GK",
+    "SAV": 51
+  },
+  {
+    "id": "66a80e272a99092d0ff9444f86cb0ec5",
+    "name": "Michael Woud",
+    "nation": "New Zealand",
+    "position": "GK",
+    "SAV": 52
+  },
+  {
+    "id": "18bd8093f8e492af5c6b57e4910e21db",
+    "name": "Owen Goodman",
+    "nation": "Canada",
+    "position": "GK",
+    "SAV": 52
+  },
+  {
+    "id": "e9c1b18b9bcc6e94fbc839c4c155bfcc",
+    "name": "Luis Mejía",
+    "nation": "Panama",
+    "position": "GK",
+    "SAV": 53
+  },
+  {
+    "id": "1a049637697b4bced68de597d435ee82",
+    "name": "Mahmud Abunada",
+    "nation": "Qatar",
+    "position": "GK",
+    "SAV": 53
+  },
+  {
+    "id": "222ea892a47d18235a4cecf0b1fc5f50",
+    "name": "Moisés Ramírez",
+    "nation": "Ecuador",
+    "position": "GK",
+    "SAV": 54
+  },
+  {
+    "id": "a2a1cdc97b318cbceb9377dfe8ff1cb2",
+    "name": "Meshaal Barsham",
+    "nation": "Qatar",
+    "position": "GK",
+    "SAV": 54
+  },
+  {
+    "id": "0fb5f624a0ef500275d1c5fd0e08930c",
+    "name": "Jo Hyeon-woo",
+    "nation": "South Korea",
+    "position": "GK",
+    "SAV": 54
+  },
+  {
+    "id": "4b78686146fb261c7da6e44839355260",
+    "name": "Kim Seung-gyu",
+    "nation": "South Korea",
+    "position": "GK",
+    "SAV": 54
+  },
+  {
+    "id": "ce8f099e1e90eed37788761fb054d88f",
+    "name": "Botirali Ergashev",
+    "nation": "Uzbekistan",
+    "position": "GK",
+    "SAV": 54
+  },
+  {
+    "id": "8bddf8b59500361750a4e46979e20998",
+    "name": "Mohammed Al-Owais",
+    "nation": "Saudi Arabia",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "04c2d219ed5c168ce3a848a0264dfd97",
+    "name": "Mohamed El Shenawy",
+    "nation": "Egypt",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "0e80abbfbb92ae5ff6d91033fb6cb792",
+    "name": "Ørjan Nyland",
+    "nation": "Norway",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "1995b8a7fc8ff17ae36e25c6e759ea6c",
+    "name": "Abduvohid Nematov",
+    "nation": "Uzbekistan",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "a02869f4efe006439fb697b7c50a1e91",
+    "name": "Nawaf Al-Aqidi",
+    "nation": "Saudi Arabia",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "a28862a0c082459ee08abe19204b84d3",
+    "name": "Mladen Jurkas",
+    "nation": "Bosnia and Herzegovina",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "b03710e3cb25c60b78de9c5cfd5e9da4",
+    "name": "Maxime Crépeau",
+    "nation": "Canada",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "4baace1204bf5e044fc7f2a75008be16",
+    "name": "Joseph Anang",
+    "nation": "Ghana",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "b674427ea3ce91965697b1cfed39f7c7",
+    "name": "Orlando Mosquera",
+    "nation": "Panama",
+    "position": "GK",
+    "SAV": 55
+  },
+  {
+    "id": "e30d5dce7bfbf80032779627efc2399e",
+    "name": "Alexander Schlager",
+    "nation": "Austria",
+    "position": "GK",
+    "SAV": 56
+  },
+  {
+    "id": "7fc6441b0b4a4aadf6566331bf9b7576",
+    "name": "Jindřich Staněk",
+    "nation": "Czech Republic",
+    "position": "GK",
+    "SAV": 57
+  },
+  {
+    "id": "5f8964c32ad6334db046df38ce0224a6",
+    "name": "Paul Izzo",
+    "nation": "Australia",
+    "position": "GK",
+    "SAV": 57
+  },
+  {
+    "id": "02c5c647d89f683418e2fd0eea3a62c1",
+    "name": "Mohamed Alaa",
+    "nation": "Egypt",
+    "position": "GK",
+    "SAV": 57
+  },
+  {
+    "id": "fc0133db4b045f89cf8a2b253ed74557",
+    "name": "Egil Selvik",
+    "nation": "Norway",
+    "position": "GK",
+    "SAV": 57
+  },
+  {
+    "id": "e25242bfc2ea03b4d91fd0a50f1c9a95",
+    "name": "Sipho Chaine",
+    "nation": "South Africa",
+    "position": "GK",
+    "SAV": 57
+  },
+  {
+    "id": "241f7ab46dfddee3cbf97980c2f69e4a",
+    "name": "Kristoffer Nordfeldt",
+    "nation": "Sweden",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "12aac5ce38544290433dc480cbecc113",
+    "name": "Ivor Pandur",
+    "nation": "Croatia",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "3a64b202f23739cb13bd2399a4e2c16d",
+    "name": "Jacob Widell Zetterström",
+    "nation": "Sweden",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "9ad7455115b744001356778b3ac0e689",
+    "name": "Melvin Mastil",
+    "nation": "Algeria",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "1e1e2e107f69994dcfb9d5ff7b4b10f9",
+    "name": "Ahmed Reda Tagnaouti",
+    "nation": "Morocco",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "bec43be24a5b2d78e5a1ffb855d766c8",
+    "name": "Patrick Beach",
+    "nation": "Australia",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "ed0e057a5a0cebdc867306e014cae732",
+    "name": "Ricardo Goss",
+    "nation": "South Africa",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "3d3b4349b97cc710770a836c430f0f15",
+    "name": "Ronwen Williams",
+    "nation": "South Africa",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "ae38ceae1b519ee42bb26980dc484a26",
+    "name": "Lawrence Ati-Zigi",
+    "nation": "Ghana",
+    "position": "GK",
+    "SAV": 58
+  },
+  {
+    "id": "e173f2734ab6c12de763ffd67b08eac9",
+    "name": "Mostafa Shobeir",
+    "nation": "Egypt",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "cade9cf034fec0431833f381180d9373",
+    "name": "Song Bum-keun",
+    "nation": "South Korea",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "7a9833cf3755792791651e3eb08e8e37",
+    "name": "Chris Brady",
+    "nation": "United States",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "45095843dbf833bb849c4e87a1991062",
+    "name": "Johny Placide",
+    "nation": "Haiti",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "37357ec99a72edcf16ae96edc0fe8833",
+    "name": "Raúl Rangel",
+    "nation": "Mexico",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "61e8f2609fd011bc2f40d4fdb666b6b3",
+    "name": "Sander Tangvik",
+    "nation": "Norway",
+    "position": "GK",
+    "SAV": 59
+  },
+  {
+    "id": "811663975a0b2fd3746c9627196247fa",
+    "name": "Fahad Talib",
+    "nation": "Iraq",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "5c44268f52456feffa51217a92d408fa",
+    "name": "Liam Kelly",
+    "nation": "Scotland",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "c67747a1d65f075070106960ae4eb5d9",
+    "name": "Mouhib Chamakh",
+    "nation": "Tunisia",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "9144881f30d3a702fde487db305b9730",
+    "name": "Payam Niazmand",
+    "nation": "Iran",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "d7f57f5c85fe15291f0835463d7056a6",
+    "name": "El Mahdy Soliman",
+    "nation": "Egypt",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "571f644bc8db9e603a78c8a36c11209e",
+    "name": "Jalal Hassan",
+    "nation": "Iraq",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "780f6c900350ed117352361285df3227",
+    "name": "Sabri Ben Hessen",
+    "nation": "Tunisia",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "780ad112871563bf14b8ac3cb3ab6160",
+    "name": "Munir Mohamedi",
+    "nation": "Morocco",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "bf17656260f10719d9c50d4975fe0198",
+    "name": "Josué Duverger",
+    "nation": "Haiti",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "1492ba179e0c00ceb507b102966f575d",
+    "name": "Lionel Mpasi",
+    "nation": "DR Congo",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "2658563c00d33f0b65ed1ca9b061b967",
+    "name": "Nour Bani Attiah",
+    "nation": "Jordan",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "f84f8f5ed29a4cfe462e0cb99d7733a0",
+    "name": "Abdallah Al-Fakhouri",
+    "nation": "Jordan",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "55d9c8be7af715de979476d19ee50c4e",
+    "name": "Timothy Fayulu",
+    "nation": "DR Congo",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "26d30166127dc36b02ccc26451db7731",
+    "name": "Max Crocombe",
+    "nation": "New Zealand",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "837a1c595381d3e4337d13a95ca470fd",
+    "name": "Oussama Benbot",
+    "nation": "Algeria",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "9b4b44c7904c638739c66c0c7517eb11",
+    "name": "Ahmed Al-Kassar",
+    "nation": "Saudi Arabia",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "5dfe114fb6e2fce0befa816dbc71f8c8",
+    "name": "Ahmed Basil",
+    "nation": "Iraq",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "72f4b188a2aa3105272b279b2df608db",
+    "name": "Angus Gunn",
+    "nation": "Scotland",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "0abbf94dde36e4ae9be269253ef1f1c3",
+    "name": "Gatito Fernández",
+    "nation": "Paraguay",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "14cb95f2be46a55838dca477a9749dfc",
+    "name": "Craig Gordon",
+    "nation": "Scotland",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "a885d7b687b6e8fe9471dabcc5296328",
+    "name": "Alban Lafont",
+    "nation": "Ivory Coast",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "514beb50383592ccb383e5d9bb0ac228",
+    "name": "Trevor Doornbusch",
+    "nation": "Curaçao",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "081f4e2f0d061880a45d423618c4833e",
+    "name": "Tyrick Bodak",
+    "nation": "Curaçao",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "aa2bf939d7343a012458be40435a6d56",
+    "name": "Benjamin Asare",
+    "nation": "Ghana",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "3e4c2e638f301ab6f21d5c4e60588dda",
+    "name": "Utkir Yusupov",
+    "nation": "Uzbekistan",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "09e0dde07d4cb016ee3b031a5ea5d078",
+    "name": "Altay Bayındır",
+    "nation": "Turkey",
+    "position": "GK",
+    "SAV": 60
+  },
+  {
+    "id": "d08c72a6a060a0811f83aee93b9a9fbb",
+    "name": "Eloy Room",
+    "nation": "Curaçao",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "ef826b508919acecaa50e4913817ac10",
+    "name": "Yazeed Abulaila",
+    "nation": "Jordan",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "9ca9bef1c218b414eecf9e50390a0acc",
+    "name": "CJ dos Santos",
+    "nation": "Cape Verde",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "2870e87a3440bb6f11403fb79240ff43",
+    "name": "Dayne St. Clair",
+    "nation": "Canada",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "8db0a420a74e45e746ca4c88c7dfd488",
+    "name": "Yassine Bounou",
+    "nation": "Morocco",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "a779106edb46ae6b3c0bce4a4adaa4b7",
+    "name": "Matt Turner",
+    "nation": "United States",
+    "position": "GK",
+    "SAV": 61
+  },
+  {
+    "id": "c38c6fd8ddc08fb7b4879be5463cb4dd",
+    "name": "Sergio Rochet",
+    "nation": "Uruguay",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "dc16864dc9720443252b06dc26a642d1",
+    "name": "Matt Freese",
+    "nation": "United States",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "a6cb08de595dd7e891f7b995b9dac51a",
+    "name": "Martin Zlomislić",
+    "nation": "Bosnia and Herzegovina",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "60ede9a8978b535419120c9ca485e328",
+    "name": "Yvon Mvogo",
+    "nation": "Switzerland",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "469c308eaa72457af8cdc2f936a108fe",
+    "name": "Keisuke Ōsako",
+    "nation": "Japan",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "ec1c0e6508064bcda1670519719b703a",
+    "name": "Édouard Mendy",
+    "nation": "Senegal",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "f995052cc21ebd42e5c9837cc71d0319",
+    "name": "David Ospina",
+    "nation": "Colombia",
+    "position": "GK",
+    "SAV": 62
+  },
+  {
+    "id": "cb46a3b66b727b855e17a97d4da23999",
+    "name": "Luca Zidane",
+    "nation": "Algeria",
+    "position": "GK",
+    "SAV": 63
+  },
+  {
+    "id": "6057e9c070e30927c65192314b5a711f",
+    "name": "Patrick Pentz",
+    "nation": "Austria",
+    "position": "GK",
+    "SAV": 63
+  },
+  {
+    "id": "c71998763acf9455dbde7f51ee4b99c5",
+    "name": "Gastón Olveira",
+    "nation": "Paraguay",
+    "position": "GK",
+    "SAV": 63
+  },
+  {
+    "id": "985e3cd43d9fe3740cb806aad392a917",
+    "name": "Matěj Kovář",
+    "nation": "Czech Republic",
+    "position": "GK",
+    "SAV": 63
+  },
+  {
+    "id": "a0825228a7955a73508af1018d2b73a8",
+    "name": "Santiago Mele",
+    "nation": "Uruguay",
+    "position": "GK",
+    "SAV": 63
+  },
+  {
+    "id": "64a14ba8075c2d7430fbe511079a8016",
+    "name": "Manuel Neuer",
+    "nation": "Germany",
+    "position": "GK",
+    "SAV": 64
+  },
+  {
+    "id": "a5bd32f70d220f8cd27a07975a1c75e8",
+    "name": "Mohamed Koné",
+    "nation": "Ivory Coast",
+    "position": "GK",
+    "SAV": 64
+  },
+  {
+    "id": "ea15041d2e88d7250e3734ea3d082f11",
+    "name": "Carlos Acevedo",
+    "nation": "Mexico",
+    "position": "GK",
+    "SAV": 64
+  },
+  {
+    "id": "b6f47e3de6cd844e2e7b916d0af5e9c1",
+    "name": "Robin Risser",
+    "nation": "France",
+    "position": "GK",
+    "SAV": 65
+  },
+  {
+    "id": "3ae8cf2503074aa943efc5e89d84847c",
+    "name": "Marvin Keller",
+    "nation": "Switzerland",
+    "position": "GK",
+    "SAV": 65
+  },
+  {
+    "id": "b669ce2a4e2bbd3148554d3d9039d852",
+    "name": "Mert Günok",
+    "nation": "Turkey",
+    "position": "GK",
+    "SAV": 65
+  },
+  {
+    "id": "957d1c9eb0cd747078f4f1eef60fed46",
+    "name": "Camilo Vargas",
+    "nation": "Colombia",
+    "position": "GK",
+    "SAV": 65
+  },
+  {
+    "id": "d4e86a0961d779ecacb4b42696d1c6a7",
+    "name": "Weverton",
+    "nation": "Brazil",
+    "position": "GK",
+    "SAV": 66
+  },
+  {
+    "id": "6c3df819c3e18402f4a25c3b3407a1da",
+    "name": "Hossein Hosseini",
+    "nation": "Iran",
+    "position": "GK",
+    "SAV": 66
+  },
+  {
+    "id": "19fc354b7653df67a45ccfef368b9efa",
+    "name": "Dominik Kotarski",
+    "nation": "Croatia",
+    "position": "GK",
+    "SAV": 66
+  },
+  {
+    "id": "d21f03357f89cd49de6a704405a06e11",
+    "name": "Dominik Livaković",
+    "nation": "Croatia",
+    "position": "GK",
+    "SAV": 66
+  },
+  {
+    "id": "6e63f1698981ebab391fc7482b307a0b",
+    "name": "Viktor Johansson",
+    "nation": "Sweden",
+    "position": "GK",
+    "SAV": 67
+  },
+  {
+    "id": "d87a8a671b3b4b00c63043ccfa4e25a7",
+    "name": "Alireza Beiranvand",
+    "nation": "Iran",
+    "position": "GK",
+    "SAV": 67
+  },
+  {
+    "id": "f5f453b020b77fcd70e732330e9375f4",
+    "name": "Zion Suzuki",
+    "nation": "Japan",
+    "position": "GK",
+    "SAV": 67
+  },
+  {
+    "id": "a17e696fce703a9d67b4873ea30085f5",
+    "name": "Ederson",
+    "nation": "Brazil",
+    "position": "GK",
+    "SAV": 67
+  },
+  {
+    "id": "e5bbf3c8a6da2f829e4d8f7c53b82d14",
+    "name": "José Sá",
+    "nation": "Portugal",
+    "position": "GK",
+    "SAV": 68
+  },
+  {
+    "id": "7670e14fa9967b43285651aabb583e1d",
+    "name": "Tomoki Hayakawa",
+    "nation": "Japan",
+    "position": "GK",
+    "SAV": 70
+  },
+  {
+    "id": "f7a3c555589d3f68c88531b6f8c2dca5",
+    "name": "Diogo Costa",
+    "nation": "Portugal",
+    "position": "GK",
+    "SAV": 70
+  },
+  {
+    "id": "65966eb5f2fe8cad8e2c6f9b8ab390dd",
+    "name": "Yehvann Diouf",
+    "nation": "Senegal",
+    "position": "GK",
+    "SAV": 71
+  },
+  {
+    "id": "b01a81ae3ecb1c32699b3c928b7cd1eb",
+    "name": "Mike Penders",
+    "nation": "Belgium",
+    "position": "GK",
+    "SAV": 71
+  },
+  {
+    "id": "df2f6a7793678f92a9b9ab83facf8145",
+    "name": "James Trafford",
+    "nation": "England",
+    "position": "GK",
+    "SAV": 71
+  },
+  {
+    "id": "fb449bb26d1c7f881058111ec2112227",
+    "name": "Florian Wiegele",
+    "nation": "Austria",
+    "position": "GK",
+    "SAV": 72
+  },
+  {
+    "id": "cd74fd4a338adce351d11c1785beb0a4",
+    "name": "Unai Simón",
+    "nation": "Spain",
+    "position": "GK",
+    "SAV": 72
+  },
+  {
+    "id": "9c108c9355a3f678432cbeb0168e2523",
+    "name": "Mory Diaw",
+    "nation": "Senegal",
+    "position": "GK",
+    "SAV": 73
+  },
+  {
+    "id": "c2d38a87dd7a12dd11d02ff90ce1f014",
+    "name": "Oliver Baumann",
+    "nation": "Germany",
+    "position": "GK",
+    "SAV": 73
+  },
+  {
+    "id": "49df6a2989001454282c85e50eab774c",
+    "name": "Orlando Gill",
+    "nation": "Paraguay",
+    "position": "GK",
+    "SAV": 73
+  },
+  {
+    "id": "dbc1541d0b5339faa6bd5c83134d4697",
+    "name": "Senne Lammens",
+    "nation": "Belgium",
+    "position": "GK",
+    "SAV": 73
+  },
+  {
+    "id": "12dea08ab10917262f50b621d53a2aab",
+    "name": "Brice Samba",
+    "nation": "France",
+    "position": "GK",
+    "SAV": 73
+  },
+  {
+    "id": "8969b7380f40183333c0e856f230397a",
+    "name": "Rui Silva",
+    "nation": "Portugal",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "04a8ffe78c8150c8502455bd54d88aea",
+    "name": "Matthieu Epolo",
+    "nation": "DR Congo",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "f8f807c6f65881178b2695b66727628c",
+    "name": "Robin Roefs",
+    "nation": "Netherlands",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "66c2c120daf01c551ac16e87d8950411",
+    "name": "Yahia Fofana",
+    "nation": "Ivory Coast",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "4cfe11aa1fccd04388df6199f4b91205",
+    "name": "Lukáš Horníček",
+    "nation": "Czech Republic",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "d9928dc0341f8690d8df103d1c3e3614",
+    "name": "Fernando Muslera",
+    "nation": "Uruguay",
+    "position": "GK",
+    "SAV": 74
+  },
+  {
+    "id": "5a6fb493ea10a54b8de6ec6c6f804629",
+    "name": "Bart Verbruggen",
+    "nation": "Netherlands",
+    "position": "GK",
+    "SAV": 75
+  },
+  {
+    "id": "239f0cb2812a56e1a735c6888c0f41cf",
+    "name": "Gonzalo Valle",
+    "nation": "Ecuador",
+    "position": "GK",
+    "SAV": 75
+  },
+  {
+    "id": "da4146e4b659b5cb61ec4a11ab67828b",
+    "name": "Gregor Kobel",
+    "nation": "Switzerland",
+    "position": "GK",
+    "SAV": 75
+  },
+  {
+    "id": "1a370588a8674a4191bf6d51fc1f1e2c",
+    "name": "Dean Henderson",
+    "nation": "England",
+    "position": "GK",
+    "SAV": 76
+  },
+  {
+    "id": "c08580dd5c14d284db7e239f585647c5",
+    "name": "Mark Flekken",
+    "nation": "Netherlands",
+    "position": "GK",
+    "SAV": 76
+  },
+  {
+    "id": "d85294a4b6026a9ffb41970342b8cf68",
+    "name": "Alexander Nübel",
+    "nation": "Germany",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "18e55ee25cd3be00887f719d68bcd105",
+    "name": "Alisson",
+    "nation": "Brazil",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "6892315e5888a65387ffe049aab1abee",
+    "name": "Álvaro Montero",
+    "nation": "Colombia",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "0a1054c1cd8a40735d0e9cb1675e98b8",
+    "name": "Uğurcan Çakır",
+    "nation": "Turkey",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "82fc5628304233c755ffd7b2ec6b51b3",
+    "name": "Hernán Galíndez",
+    "nation": "Ecuador",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "277317fdead27967efc034c6990f4ac6",
+    "name": "Gerónimo Rulli",
+    "nation": "Argentina",
+    "position": "GK",
+    "SAV": 77
+  },
+  {
+    "id": "795fba3745999d9826607063429ae4f0",
+    "name": "Nikola Vasilj",
+    "nation": "Bosnia and Herzegovina",
+    "position": "GK",
+    "SAV": 79
+  },
+  {
+    "id": "ff7d491bc1a4b9eb015b72916b4c66e5",
+    "name": "Mathew Ryan",
+    "nation": "Australia",
+    "position": "GK",
+    "SAV": 79
+  },
+  {
+    "id": "0efc5d232295191957a6a70884726037",
+    "name": "Joan Garcia",
+    "nation": "Spain",
+    "position": "GK",
+    "SAV": 81
+  },
+  {
+    "id": "148d033084071c6a7133dd6cf00a0cae",
+    "name": "Jordan Pickford",
+    "nation": "England",
+    "position": "GK",
+    "SAV": 81
+  },
+  {
+    "id": "90d26ab1155de5c676f3464bf79d6b59",
+    "name": "David Raya",
+    "nation": "Spain",
+    "position": "GK",
+    "SAV": 82
+  },
+  {
+    "id": "39fa18f313affa2e4e630d7ee029510d",
+    "name": "Mike Maignan",
+    "nation": "France",
+    "position": "GK",
+    "SAV": 83
+  },
+  {
+    "id": "d895393f24b512dc8f381693e485afe2",
+    "name": "Thibaut Courtois",
+    "nation": "Belgium",
+    "position": "GK",
+    "SAV": 85
+  },
+  {
+    "id": "886075267e6afc01f6de3e761156e80c",
+    "name": "Juan Musso",
+    "nation": "Argentina",
+    "position": "GK",
+    "SAV": 89
+  }
+]

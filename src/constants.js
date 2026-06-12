@@ -1,0 +1,1 @@
+export const DB_NAME = "FIFA_WC_Battle"
