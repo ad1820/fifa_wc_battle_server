@@ -10,6 +10,11 @@ app.use(express.urlencoded({ extended: true, limit: "16kb" }))
 app.use(cookieParser())
 
 
+// Health check endpoint
+app.get("/health", (req, res) => {
+    res.status(200).json({ status: "OK", message: "Backend is healthy" });
+});
+
 // Routes
 import matchRouter from './routes/match.routes.js';
 import authRouter from './routes/auth.routes.js';
