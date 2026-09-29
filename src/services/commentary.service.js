@@ -19,7 +19,10 @@ const invokeWithTimeout = (prompt, timeoutMs) => {
         }, timeoutMs);
     });
 
-    return Promise.race([llm.invoke(prompt, { signal: controller.signal }), timeout])
+    return Promise.race([llm.invoke(prompt, {
+        signal: controller.signal,
+        reasoningEffort: 'low',
+    }), timeout])
         .finally(() => clearTimeout(timeoutId));
 };
 
@@ -53,7 +56,7 @@ export const initializeAI = () => {
         model: provider.model,
         temperature: 1,
         topP: 0.9,
-        maxTokens: 70,
+        maxTokens: 350,
     });
     activeProvider = { name: provider.name, model: provider.model };
     console.log(`AI commentary enabled with ${provider.name} (${provider.model}).`);
@@ -69,12 +72,24 @@ export const checkCommentaryHealth = async (timeoutMs) => {
 };
 
 const remember = (line) => {
-    recentCalls.push(line.toLowerCase().replace(/[^a-z0-9 ]/g, ''));
+    recentCalls.push(line);
     if (recentCalls.length > 40) recentCalls.shift();
     return line;
 };
 
-const wasRecentlyUsed = (line) => recentCalls.includes(line.toLowerCase().replace(/[^a-z0-9 ]/g, ''));
+const wordsOf = (line) => String(line).toLowerCase().match(/[a-z0-9]+/g) || [];
+
+const isTooSimilar = (line) => {
+    const candidate = new Set(wordsOf(line));
+    if (!candidate.size) return true;
+
+    return recentCalls.some((recent) => {
+        const previous = new Set(wordsOf(recent));
+        const shared = [...candidate].filter((word) => previous.has(word)).length;
+        const union = new Set([...candidate, ...previous]).size;
+        return union > 0 && shared / union >= 0.62;
+    });
+};
 
 const describeEvent = (user, opponent, outcome, attribute) => {
     const userWon = outcome === 'WIN';
@@ -103,16 +118,35 @@ const describeEvent = (user, opponent, outcome, attribute) => {
 
 const localCommentary = (user, opponent, outcome, event) => {
     const winner = nameOf(outcome === 'WIN' ? user : opponent, 'The winner');
+    const loser = nameOf(outcome === 'WIN' ? opponent : user, 'the opponent');
     const eventCall = `${event.charAt(0).toUpperCase()}${event.slice(1)}!`;
-    if (outcome === 'DRAW') return `${eventCall} ${pick(['No winner under the lights.', 'Neither side gives an inch.', 'The whistle ends a breathless battle.'])}`;
+    if (outcome === 'DRAW') return pick([
+        `${eventCall} The final whistle finds them inseparable after a contest that refused to settle.`,
+        `Nothing between them! ${eventCall} Both players leave everything on the pitch.`,
+        `${eventCall} The tension breaks, but the deadlock does not. What a battle.`,
+        `So close to a winner, yet neither gives way. ${eventCall}`,
+        `${eventCall} A breathless finish, a hard-earned draw, and no complaints from either side.`,
+    ]);
 
-    return `${eventCall} ${pick([
-        `${winner}—oh, that is outrageous!`,
-        `${winner} makes the moment count!`,
-        `Would you believe it? ${winner} delivers!`,
-        `${winner}, with ice in the veins!`,
-        `That is pure theatre from ${winner}!`,
-    ])}`;
+    return pick([
+        `${eventCall} ${winner} seizes the moment, and ${loser} can only watch the celebration begin.`,
+        `The pressure peaks, the chance arrives, and ${winner} delivers! ${eventCall}`,
+        `${winner} has turned this duel into a showstopper. ${eventCall}`,
+        `Listen to that roar! ${eventCall} ${winner} has produced the decisive flash of brilliance.`,
+        `${eventCall} Cool head, fearless execution, unforgettable finish from ${winner}.`,
+        `Out of nowhere, the game catches fire! ${eventCall} ${winner} owns the moment.`,
+        `${loser} was ready for everything except that. ${eventCall} Magnificent from ${winner}!`,
+        `One opening, one heartbeat, one ruthless answer. ${eventCall} ${winner} takes it.`,
+    ]);
+};
+
+const variedLocalCommentary = (user, opponent, outcome, event) => {
+    let line;
+    for (let attempt = 0; attempt < 6; attempt += 1) {
+        line = localCommentary(user, opponent, outcome, event);
+        if (!isTooSimilar(line)) return line;
+    }
+    return line;
 };
 
 const cleanAIResponse = (content) => String(content || '')
@@ -123,19 +157,39 @@ const cleanAIResponse = (content) => String(content || '')
 
 export const generateCommentary = async (userPlayer, aiPlayer, userAttr, counterAttr, outcome) => {
     const event = describeEvent(userPlayer, aiPlayer, outcome, userAttr);
-    const fallback = localCommentary(userPlayer, aiPlayer, outcome, event);
+    const fallback = variedLocalCommentary(userPlayer, aiPlayer, outcome, event);
     if (!llm) return remember(fallback);
 
-    const prompt = `Write one short live football video-game commentary call about this exact moment: ${event}.
-Result: ${outcome} for ${nameOf(userPlayer, 'the user')}. Attribute clash: ${userAttr} against ${counterAttr}.
-Use both player names when natural. Sound spontaneous, dramatic and conversational. Vary sentence rhythm and vocabulary. Maximum 28 words and 2 sentences. Never mention ratings, attribute codes, the prompt, or "FC27". Do not copy familiar real-world commentary catchphrases.
-Creative variation token: ${Date.now()}-${Math.random().toString(36).slice(2)}.`;
+    const styles = [
+        'breathless radio call with a sudden explosive finish',
+        'slow-building tension followed by an emotional release',
+        'sharp, punchy television commentary with vivid action verbs',
+        'cinematic match narration focused on pressure and atmosphere',
+        'astonished live reaction that feels spontaneous and unscripted',
+        'confident tactical observation that erupts into celebration',
+    ];
 
     try {
         for (let attempt = 0; attempt < 2; attempt += 1) {
+            const recentExamples = recentCalls.length
+                ? recentCalls.slice(-6).map((line) => `- ${line}`).join('\n')
+                : '- None yet';
+            const prompt = `Create original live football video-game commentary for this exact moment: ${event}.
+Result: ${outcome} for ${nameOf(userPlayer, 'the user')}. The opponent is ${nameOf(aiPlayer, 'the opponent')}.
+Delivery style: ${pick(styles)}.
+
+Write 25-65 words in 1-4 sentences. Build drama around the action, tension, crowd, momentum, or emotion. Use player names naturally, not mechanically. Vary the opening, sentence length, imagery, and final beat. Do not invent scores or match facts.
+
+Never mention ratings, attribute codes (${userAttr}/${counterAttr}), prompts, AI, or "FC27". Avoid famous commentary catchphrases and generic endings such as "pure theatre", "ice in the veins", or "makes the moment count".
+
+Do not reuse the wording, structure, opening, or ending of these recent calls:
+${recentExamples}
+
+Return only the commentary. Creative seed: ${Date.now()}-${attempt}-${Math.random().toString(36).slice(2)}.`;
             const response = await invokeWithTimeout(prompt, COMMENTARY_TIMEOUT_MS);
             const line = cleanAIResponse(response?.content);
-            if (line && line.split(/\s+/).length <= 34 && !wasRecentlyUsed(line)) return remember(line);
+            const wordCount = wordsOf(line).length;
+            if (wordCount >= 10 && wordCount < 100 && !isTooSimilar(line)) return remember(line);
         }
     } catch (error) {
         console.error('Commentary generation failed:', error.message);
