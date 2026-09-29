@@ -1,6 +1,7 @@
 import express from "express"
 import cookieParser from "cookie-parser"
 import cors from "cors"
+import { getHealth } from "./controllers/health.controller.js"
 
 const app = express()
 
@@ -10,10 +11,7 @@ app.use(express.urlencoded({ extended: true, limit: "16kb" }))
 app.use(cookieParser())
 
 
-// Health check endpoint
-app.get("/health", (req, res) => {
-    res.status(200).json({ status: "OK", message: "Backend is healthy" });
-});
+app.get("/health", getHealth);
 
 // Routes
 import matchRouter from './routes/match.routes.js';

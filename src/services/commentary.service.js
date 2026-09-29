@@ -5,6 +5,7 @@ const isKeeper = (player) => player?.position === 'GK';
 const nameOf = (player, fallback) => player?.name?.trim() || fallback;
 const recentCalls = [];
 let llm = null;
+let activeProvider = null;
 const COMMENTARY_TIMEOUT_MS = Number(process.env.COMMENTARY_TIMEOUT_MS || 8000);
 
 const invokeWithTimeout = (prompt, timeoutMs) => {
@@ -40,6 +41,8 @@ export const initializeAI = () => {
             : null;
 
     if (!provider) {
+        llm = null;
+        activeProvider = null;
         console.warn('GROQ_API_KEY and NVIDIA_API_KEY missing - using varied local commentary.');
         return;
     }
@@ -52,7 +55,17 @@ export const initializeAI = () => {
         topP: 0.9,
         maxTokens: 70,
     });
+    activeProvider = { name: provider.name, model: provider.model };
     console.log(`AI commentary enabled with ${provider.name} (${provider.model}).`);
+};
+
+export const checkCommentaryHealth = async (timeoutMs) => {
+    if (!llm || !activeProvider) throw new Error('AI commentary is not configured.');
+
+    const response = await invokeWithTimeout('Reply with OK only.', timeoutMs);
+    if (!cleanAIResponse(response?.content)) throw new Error('AI commentary returned an empty response.');
+
+    return activeProvider;
 };
 
 const remember = (line) => {
