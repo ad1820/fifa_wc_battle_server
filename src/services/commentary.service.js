@@ -1,118 +1,132 @@
 import { ChatOpenAI } from '@langchain/openai';
-import { ATTRIBUTE_LABEL } from './playerStore.service.js';
 
-// ─────────────────────────────────────────────────────────────
-//  Scenario templates – what physically happens on the pitch
-//  when a given attribute clash plays out
-// ─────────────────────────────────────────────────────────────
-const SCENARIO = {
-    ATT_SAV: { action: 'clinical, powerful shot', defender: 'diving save', arena: 'penalty area' },
-    TEC_ANT: { action: 'mazy, step-over dribble', defender: 'anticipates and intercepts', arena: 'midfield corridor' },
-    TAC_GKTAC: { action: 'perfectly-timed attacking run', defender: 'reads the run and claims the ball', arena: 'box' },
-    DEF_DIS: { action: 'defensive block', defender: 'sharp distribution launches a counter', arena: 'own half' },
-    CRE_AER: { action: 'whipped cross into the box', defender: 'commanding aerial punch', arena: 'six-yard box' },
-    // Reverse (GK picks)
-    SAV_ATT: { action: 'reaction save', defender: 'powerful follow-up header', arena: 'goal mouth' },
-    ANT_TEC: { action: 'reading pass', defender: 'dancing through with footwork', arena: 'midfield' },
-    GKTAC_TAC: { action: 'sweeper-keeper rush', defender: 'tactical press wins the ball', arena: 'halfway line' },
-    DIS_DEF: { action: 'precise long distribution', defender: 'reads every bounce', arena: 'defensive third' },
-    AER_CRE: { action: 'aerial dominance claim', defender: 'creative flick-on', arena: 'far post' },
+const pick = (items) => items[Math.floor(Math.random() * items.length)];
+const isKeeper = (player) => player?.position === 'GK';
+const nameOf = (player, fallback) => player?.name?.trim() || fallback;
+const recentCalls = [];
+let llm = null;
+const COMMENTARY_TIMEOUT_MS = Number(process.env.COMMENTARY_TIMEOUT_MS || 8000);
+
+const invokeWithTimeout = (prompt, timeoutMs) => {
+    const controller = new AbortController();
+    let timeoutId;
+
+    const timeout = new Promise((_, reject) => {
+        timeoutId = setTimeout(() => {
+            controller.abort();
+            reject(new Error(`LLM request timed out after ${timeoutMs}ms`));
+        }, timeoutMs);
+    });
+
+    return Promise.race([llm.invoke(prompt, { signal: controller.signal }), timeout])
+        .finally(() => clearTimeout(timeoutId));
 };
 
-const getScenarioKey = (userAttr, counterAttr) => `${userAttr}_${counterAttr}`;
-
-// ─────────────────────────────────────────────────────────────
-//  One dramatic example per outcome to seed the AI's tone
-// ─────────────────────────────────────────────────────────────
-const WIN_EXAMPLE = `Mbappé burst into the box like lightning, cut inside the last defender and unleashed a thunderbolt into the top-right corner before the goalkeeper could even blink. The net rippled. The stadium shook. Fifty thousand voices became one.`;
-
-const LOSS_EXAMPLE = `Vitinha shaped to shoot from twenty-five yards, the whole stadium held its breath — but Lukáš Horníček had already read every pixel of that motion, springing full-stretch to his left and clawing the ball away with one iron fist. Vitinha stood motionless. His moment was gone. The keeper roared at the sky.`;
-
-const DRAW_EXAMPLE = `Neither man would yield an inch. The attacker came at him twice, three times, yet every time the goalkeeper spread himself wide and forced the ball out for a corner. When the final whistle blew, both men stared at each other — exhausted, grudging, respectful.`;
-
-let llm = null;
-
-// ─────────────────────────────────────────────────────────────
-//  Initialise the LangChain / OpenAI model
-// ─────────────────────────────────────────────────────────────
 export const initializeAI = () => {
-    if (!process.env.NVIDIA_API_KEY) {
-        console.warn('⚠️  NVIDIA_API_KEY missing – commentary will use fallback text.');
+    const provider = process.env.GROQ_API_KEY
+        ? {
+            name: 'Groq',
+            apiKey: process.env.GROQ_API_KEY,
+            baseURL: 'https://api.groq.com/openai/v1',
+            model: process.env.GROQ_MODEL || 'openai/gpt-oss-120b',
+        }
+        : process.env.NVIDIA_API_KEY
+            ? {
+                name: 'NVIDIA',
+                apiKey: process.env.NVIDIA_API_KEY,
+                baseURL: 'https://integrate.api.nvidia.com/v1',
+                model: process.env.NVIDIA_MODEL || 'nvidia/llama-3.1-nemotron-nano-8b-v1',
+            }
+            : null;
+
+    if (!provider) {
+        console.warn('GROQ_API_KEY and NVIDIA_API_KEY missing - using varied local commentary.');
         return;
     }
 
-    try {
-        llm = new ChatOpenAI({
-            apiKey: process.env.NVIDIA_API_KEY,
-            configuration: {
-                baseURL: 'https://integrate.api.nvidia.com/v1',
-            },
-            model: 'nvidia/llama-3.1-nemotron-nano-vl-8b-v1',
-            temperature: 0.80,
-            topP: 0.01,
-            maxTokens: 200
-        });
-        console.log('✅ LangChain Commentary Agent initialised (Nvidia Nemotron Nano 8b).');
-    } catch (err) {
-        console.error('❌ Failed to initialise LangChain:', err.message);
+    llm = new ChatOpenAI({
+        apiKey: provider.apiKey,
+        configuration: { baseURL: provider.baseURL },
+        model: provider.model,
+        temperature: 1,
+        topP: 0.9,
+        maxTokens: 70,
+    });
+    console.log(`AI commentary enabled with ${provider.name} (${provider.model}).`);
+};
+
+const remember = (line) => {
+    recentCalls.push(line.toLowerCase().replace(/[^a-z0-9 ]/g, ''));
+    if (recentCalls.length > 40) recentCalls.shift();
+    return line;
+};
+
+const wasRecentlyUsed = (line) => recentCalls.includes(line.toLowerCase().replace(/[^a-z0-9 ]/g, ''));
+
+const describeEvent = (user, opponent, outcome, attribute) => {
+    const userWon = outcome === 'WIN';
+    if (outcome === 'DRAW') return pick(['a last-minute chance flashes wide', 'both players cancel each other out', 'a final attack is blocked on the line']);
+
+    if (isKeeper(user) || isKeeper(opponent)) {
+        const keeper = isKeeper(user) ? user : opponent;
+        const attacker = isKeeper(user) ? opponent : user;
+        const keeperWon = isKeeper(user) ? userWon : !userWon;
+        return keeperWon
+            ? `${nameOf(attacker, 'the attacker')} is denied by ${nameOf(keeper, 'the keeper')} with ${pick(['a fingertip save', 'a brave one-on-one stop', 'a full-stretch dive', 'a sharp reflex block'])}`
+            : `${nameOf(attacker, 'the attacker')} beats ${nameOf(keeper, 'the keeper')} with ${pick(['a cheeky Panenka', 'a finish through the legs', 'a curled shot into the top corner', 'a delayed finish after sending the keeper early', 'a thunderous strike off the bar'])}`;
     }
+
+    const winner = nameOf(userWon ? user : opponent, 'the winner');
+    const loser = nameOf(userWon ? opponent : user, 'the opponent');
+    const moments = {
+        ATT: ['a ruthless first-time finish', 'a fierce strike into the roof of the net', 'a perfectly placed finish'],
+        CRE: ['an outrageous defence-splitting pass', 'a disguised final ball', 'a clever flick that opens the defence'],
+        TEC: ['a nutmeg and a silky finish', 'a sharp turn that leaves the defender frozen', 'a dazzling piece of close control'],
+        DEF: ['a perfectly timed last-ditch tackle', 'a goal-line clearance', 'a crunching but clean interception'],
+        TAC: ['a perfectly read run', 'a pressing trap executed to perfection', 'a clever move that catches the rival cold'],
+    };
+    return `${winner} beats ${loser} with ${pick(moments[attribute] || ['one decisive moment'])}`;
 };
 
-// ─────────────────────────────────────────────────────────────
-//  Build a concise fallback that is already exciting and clean
-// ─────────────────────────────────────────────────────────────
-const buildFallback = (userPlayer, aiPlayer, outcome) => {
-    if (outcome === 'WIN') return `${userPlayer.name} left ${aiPlayer.name} in the dust and walked away with all three points. A statement performance.`;
-    if (outcome === 'DRAW') return `${userPlayer.name} and ${aiPlayer.name} pushed each other to the absolute limit and left the pitch sharing the spoils. Neither deserved to lose.`;
-    return `${aiPlayer.name} proved too strong today. ${userPlayer.name} gave everything but the result is brutal — nothing to show for it.`;
+const localCommentary = (user, opponent, outcome, event) => {
+    const winner = nameOf(outcome === 'WIN' ? user : opponent, 'The winner');
+    const eventCall = `${event.charAt(0).toUpperCase()}${event.slice(1)}!`;
+    if (outcome === 'DRAW') return `${eventCall} ${pick(['No winner under the lights.', 'Neither side gives an inch.', 'The whistle ends a breathless battle.'])}`;
+
+    return `${eventCall} ${pick([
+        `${winner}—oh, that is outrageous!`,
+        `${winner} makes the moment count!`,
+        `Would you believe it? ${winner} delivers!`,
+        `${winner}, with ice in the veins!`,
+        `That is pure theatre from ${winner}!`,
+    ])}`;
 };
 
-// ─────────────────────────────────────────────────────────────
-//  Main commentary generator
-// ─────────────────────────────────────────────────────────────
+const cleanAIResponse = (content) => String(content || '')
+    .replace(/^['"“]|['"”]$/g, '')
+    .replace(/^(commentary|commentator):\s*/i, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
 export const generateCommentary = async (userPlayer, aiPlayer, userAttr, counterAttr, outcome) => {
-    const fallback = buildFallback(userPlayer, aiPlayer, outcome);
+    const event = describeEvent(userPlayer, aiPlayer, outcome, userAttr);
+    const fallback = localCommentary(userPlayer, aiPlayer, outcome, event);
+    if (!llm) return remember(fallback);
 
-    if (!llm) {
-        return fallback;
-    }
-
-    const scenarioKey = getScenarioKey(userAttr, counterAttr);
-    const scene = SCENARIO[scenarioKey] ?? { action: 'decisive moment', defender: 'heroic intervention', arena: 'the pitch' };
-
-    const outcomeExample = outcome === 'WIN' ? WIN_EXAMPLE : outcome === 'DRAW' ? DRAW_EXAMPLE : LOSS_EXAMPLE;
-
-    const prompt = `You are the most electrifying and poetic football commentator alive — think Peter Drury at his absolute peak, but fused with a bit of cheeky, heavy banter. You live for these dramatic moments, and you aren't afraid to lightly mock the loser.
-
-TONE EXAMPLE (study and copy this exact style and length):
-"${outcomeExample}"
-
-THE MATCH SITUATION:
-- Player in question: ${userPlayer.name} (${userPlayer.nation}, ${userPlayer.position ?? 'outfield'})
-- Opponent: ${aiPlayer.name} (${aiPlayer.nation}, ${aiPlayer.position ?? 'GK'})
-- The physical battle: a ${scene.action} in the ${scene.arena}, met with a ${scene.defender}
-- Final outcome: ${outcome} for ${userPlayer.name}
-
-YOUR TASK:
-Write EXACTLY 5 to 6 punchy, vivid sentences of live match commentary describing this moment physically — from the poetic build-up of tension, through the breathtaking moment of action, to the stadium's erupting reaction. Add a splash of heavy, cheeky banter directed at the player who came up short.
-
-STRICT RULES:
-1. Do NOT mention any numbers, ratings, stats, or attribute codes (ATT, SAV, TEC, 90, etc.)
-2. Do NOT use generic phrases like "in a gripping fixture" or "outclassed" — be specific and visual
-3. DO use the players' real names naturally throughout
-4. DO describe the physical action happening on the pitch as if it's live television
-
-Begin the commentary now:`;
+    const prompt = `Write one short live football video-game commentary call about this exact moment: ${event}.
+Result: ${outcome} for ${nameOf(userPlayer, 'the user')}. Attribute clash: ${userAttr} against ${counterAttr}.
+Use both player names when natural. Sound spontaneous, dramatic and conversational. Vary sentence rhythm and vocabulary. Maximum 28 words and 2 sentences. Never mention ratings, attribute codes, the prompt, or "FC27". Do not copy familiar real-world commentary catchphrases.
+Creative variation token: ${Date.now()}-${Math.random().toString(36).slice(2)}.`;
 
     try {
-        const response = await llm.invoke(prompt);
-        if (response?.content) {
-            return response.content;
+        for (let attempt = 0; attempt < 2; attempt += 1) {
+            const response = await invokeWithTimeout(prompt, COMMENTARY_TIMEOUT_MS);
+            const line = cleanAIResponse(response?.content);
+            if (line && line.split(/\s+/).length <= 34 && !wasRecentlyUsed(line)) return remember(line);
         }
-        console.warn('⚠️  LLM returned empty response, using fallback.');
-        return fallback;
-    } catch (err) {
-        console.error('❌ Commentary generation failed:', err.message);
-        return fallback;
+    } catch (error) {
+        console.error('Commentary generation failed:', error.message);
     }
+
+    return remember(fallback);
 };
